@@ -1,0 +1,35 @@
+This is a top-down view from the center of the living room.
+
+1. **Furniture Locations:**
+   - **Sofa:** Against the left wall, forming a U-shape.
+   - **Coffee Table:** In the center, facing the sofa.
+   - **End Tables:** Two on the left side of the sofa, one on each end.
+   - **Coffee Table:** In the center, with a circular design.
+   - **TV Stand:** Against the right wall.
+   - **TV:** On the TV stand, facing the sofa.
+   - **Rug:** Under the coffee table and sofa, covering the central area.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** ~2 meters long, ~0.8 meters wide.
+   - **Coffee Table:** ~1x0.6 meters.
+   - **End Tables:** ~0.5x0.5 meters each.
+   - **TV Stand:** ~1.2 meters wide, ~0.6 meters deep.
+
+3. **Distances and Clearances:**
+   - **Walkway:** 80 cm between the sofa and coffee table.
+   - **Coffee Table:** 40 cm from the center of the sofa.
+
+4. **Orientation and Angles:**
+   - **Sofa:** Faces the coffee table.
+   - **Coffee Table:** Circular, centered in front of the sofa.
+   - **TV:** Facing the sofa.
+
+5. **Room Style:**
+   - **Style:** Minimalist, Scandinavian.
+   - **Colors/Materials:** Neutral tones, beige, light brown, wood, and soft textiles.
+
+6. **Room Size and Windows/Doors:**
+   - **Size:** Approximately 4x3 meters.
+   - **Windows/Doors:** Not visible in the image, likely on the walls opposite the sofa and TV.
+
+This description should help you reconstruct the floor plan based on the provided details.

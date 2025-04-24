@@ -1,0 +1,30 @@
+This is a top-down view from the center of the living room.
+
+1. **Furniture Layout:**
+   - **Sofa:** Positioned against the back wall, spanning the width of the room. It's a sectional sofa with three sections.
+   - **Coffee Table:** Located in the center, directly in front of the sofa. It's rectangular and has a glass top.
+   - **Armchair:** Placed to the left of the coffee table, near the back wall.
+   - **Curtains:** Covering the windows on both sides of the room, hanging from the ceiling to the floor.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** Approximately 3 meters long.
+   - **Coffee Table:** About 1 meter wide and 0.6 meters deep.
+   - **Armchair:** Around 0.8 meters wide and 0.8 meters deep.
+
+3. **Distances and Clearances:**
+   - Walkway between the sofa and coffee table: Approximately 80 cm.
+   - Clearance between the armchair and coffee table: About 50 cm.
+
+4. **Orientation and Angles:**
+   - The sofa faces the coffee table, forming a U-shape.
+   - The coffee table is centered in front of the sofa.
+   - The armchair is angled slightly towards the coffee table.
+
+5. **Room Style:**
+   - The room has a minimalist and Scandinavian style.
+   - Colors: Neutral palette with beige, gray, and brown tones.
+   - Materials: Wooden flooring, fabric upholstery, and glass tabletop.
+
+6. **Room Size and Windows:**
+   - The room is approximately 4 meters by 4 meters.
+   - Windows are located on the back wall, flanked by curtains on both sides.

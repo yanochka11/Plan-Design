@@ -1,0 +1,34 @@
+This is a top-down view from the center of the living room. Here's the detailed layout:
+
+1. **Furniture Locations:**
+   - **Sofa:** Centered against the back wall.
+   - **Coffee Table:** In front of the sofa, slightly to the right.
+   - **Two Armchairs:** Positioned on either side of the coffee table, against the back wall.
+   - **Planters:** On the left side, near the back wall.
+   - **Bookshelf:** On the left side, near the back wall.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** ~2 meters long.
+   - **Coffee Table:** ~1×0.6 meters.
+   - **Armchairs:** Each ~0.8 meters wide.
+   - **Planters:** Each ~0.5 meters wide.
+   - **Bookshelf:** ~1 meter wide.
+
+3. **Distances and Clearances:**
+   - **Walkway:** 80 cm between the sofa and the coffee table.
+   - **Clearance between Armchairs:** 60 cm.
+
+4. **Orientation and Angles:**
+   - **Sofa:** Faces the coffee table.
+   - **Coffee Table:** Positioned at a slight angle to the sofa.
+   - **Armchairs:** Facing the coffee table.
+
+5. **Room Style:**
+   - **Style:** Modern minimalist.
+   - **Colors/Materials:** Predominantly neutral tones with dark wood paneling, light gray walls, and white furniture.
+
+6. **Room Size and Windows/Doors:**
+   - **Room Size:** Approximately 4 meters by 4 meters.
+   - **Windows/Doors:** Large windows on the top side, allowing natural light.
+
+This description should help in drawing the room layout accurately.

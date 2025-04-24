@@ -1,0 +1,34 @@
+This is a top-down view from the center of the living room.
+
+1. **Furniture Layout:**
+   - **Sofa:** Positioned against the back wall, centered in the room.
+   - **Coffee Table:** In front of the sofa, slightly to the right.
+   - **Ottoman:** In front of the sofa, centered.
+   - **Side Table:** To the right of the sofa.
+   - **Cushions:** Scattered around the room, mostly near the sofa and coffee table.
+
+2. **Dimensions:**
+   - **Sofa:** ~2 meters long, ~1 meter wide.
+   - **Coffee Table:** ~1 meter long, ~0.6 meters wide.
+   - **Ottoman:** ~1 meter long, ~0.5 meters wide.
+   - **Side Table:** ~0.5 meters long, ~0.4 meters wide.
+
+3. **Clearances:**
+   - 80 cm walkway between the sofa and coffee table.
+   - 60 cm between the coffee table and ottoman.
+   - 40 cm between the ottoman and side table.
+
+4. **Orientation:**
+   - The sofa faces the coffee table.
+   - The coffee table is turned slightly towards the sofa.
+   - The side table is positioned parallel to the sofa.
+
+5. **Style:**
+   - Minimalist Scandinavian.
+   - Colors: White, light gray, and wood tones.
+
+6. **Room Size:**
+   - Approximately 4 meters by 4 meters.
+   - Windows and doors are not visible in this view.
+
+This description should help you reconstruct the floor plan.

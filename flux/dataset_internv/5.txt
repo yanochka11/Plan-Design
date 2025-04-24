@@ -1,0 +1,35 @@
+This is a top-down view from the center of the living room.
+
+1. **Furniture Locations:**
+   - **Sofa:** Against the back wall, centered.
+   - **Coffee Table:** In the center, in front of the sofa.
+   - **Two Armchairs:** Positioned on either side of the coffee table, facing the sofa.
+   - **Wall Shelves:** On the left wall, above the sofa.
+   - **Plant:** In the bottom left corner.
+   - **Lamp:** On the left wall, near the ceiling.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** ~2 meters long, ~1.5 meters wide.
+   - **Coffee Table:** ~1×0.6 meters.
+   - **Armchairs:** Each ~0.8 meters wide, ~0.6 meters deep.
+   - **Wall Shelves:** ~1 meter wide, ~0.5 meters deep.
+
+3. **Distances and Clearances:**
+   - ~80 cm walkway between the sofa and the coffee table.
+   - ~50 cm between each armchair and the coffee table.
+
+4. **Orientation and Angles:**
+   - The sofa faces the coffee table.
+   - The armchairs face the sofa and coffee table.
+   - The coffee table is turned slightly towards the armchairs.
+
+5. **Room Style:**
+   - Minimalist, Scandinavian.
+   - Colors: White, gray, beige, with accents of red and pink.
+
+6. **Room Size and Windows/Doors:**
+   - Room size: Approximately 4 meters by 4 meters.
+   - Windows: Located on the top left side, allowing natural light.
+   - Doors: On the left side, leading to another room.
+
+This layout should help in reconstructing the floor plan based on the description.

@@ -1,0 +1,54 @@
+This is a top-down view from the center of the living room.
+
+### Layout and Dimensions:
+
+1. **Sofa**: 
+   - Located against the back wall.
+   - Approximately 2 meters long.
+   - Faces the coffee table.
+
+2. **Coffee Table**:
+   - Positioned in the center of the room.
+   - Approximately 1 meter in diameter.
+
+3. **Armchair**:
+   - Placed to the right of the coffee table.
+   - Approximately 0.8 meters wide.
+
+4. **Dining Table and Chairs**:
+   - Located on the left side of the room.
+   - The table is rectangular, approximately 1.2 meters long and 0.6 meters wide.
+   - Two chairs are placed on either side of the table.
+
+5. **Rug**:
+   - Underneath the coffee table and armchair.
+   - Approximately 1.5 meters by 1.5 meters.
+
+### Clearances and Distances:
+
+- Walkway between the sofa and the coffee table: Approximately 80 cm.
+- Distance between the dining table and the sofa: Approximately 1 meter.
+- Clearance around the coffee table: Approximately 50 cm.
+
+### Orientation and Angles:
+
+- The sofa faces the coffee table, forming a U-shape with the armchair.
+- The dining table is perpendicular to the sofa.
+
+### Style and Color Palette:
+
+- **Style**: Minimalist
+- **Colors**: 
+  - Sofa: Beige
+  - Armchair: Green
+  - Dining table: White with marble top
+  - Rug: White with a subtle pattern
+  - Curtains: Light gray
+
+### Room Size and Windows/Doors:
+
+- **Room Size**: Approximately 4 meters by 4 meters.
+- **Windows**: Located on the right side of the room, with light gray curtains.
+- **Doors**: Not visible in this view.
+
+This description should allow someone to hand-draw the room layout accurately.

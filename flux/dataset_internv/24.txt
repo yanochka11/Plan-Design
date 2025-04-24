@@ -1,0 +1,42 @@
+This is a top-down view from the center of the living room.
+
+### Layout Description
+
+1. **Furniture Locations:**
+   - **Sofa:** Center-left, facing the coffee table.
+   - **Coffee Table:** Center, in front of the sofa.
+   - **Dining Table:** Center-right, with chairs around it.
+   - **Side Table:** Left side of the sofa.
+   - **Chair:** Right side of the sofa.
+   - **Bookshelf:** Right wall, above the dining table.
+   - **Cabinet:** Left wall, near the entrance.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** ~2 meters long, ~0.8 meters wide.
+   - **Coffee Table:** ~0.8 meters long, ~0.5 meters wide.
+   - **Dining Table:** ~1 meter long, ~0.6 meters wide.
+   - **Chairs:** Each chair ~0.5 meters wide, ~0.4 meters deep.
+   - **Side Table:** ~0.4 meters long, ~0.3 meters wide.
+   - **Bookshelf:** ~2 meters wide, ~1 meter tall.
+   - **Cabinet:** ~1 meter wide, ~1.5 meters tall.
+
+3. **Distances and Clearances:**
+   - **Walkway:** 80 cm between sofa and coffee table.
+   - **Walkway:** 80 cm between coffee table and dining table.
+   - **Clearance:** 60 cm between dining table and wall.
+
+4. **Orientation and Angles:**
+   - **Sofa:** Facing the coffee table at a 90-degree angle.
+   - **Dining Table:** Facing the bookshelf at a 90-degree angle.
+   - **Chair:** Facing the dining table at a 90-degree angle.
+
+5. **Room Style:**
+   - **Style:** Minimalist, Scandinavian.
+   - **Colors/Materials:** Light wood, white, gray, beige, marble.
+
+6. **Room Size and Windows/Doors:**
+   - **Room Size:** Approximately 6 meters by 4 meters.
+   - **Windows:** Large windows on the right wall, providing ample natural light.
+   - **Doors:** Entrance door on the left side.
+
+This description should allow someone to hand-draw the room layout based on the provided details.

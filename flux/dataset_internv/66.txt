@@ -1,0 +1,35 @@
+This is a top-down view from the center of the living room.
+
+1. **Furniture Locations:**
+   - **Sofa:** Centered against the back wall.
+   - **Coffee Table:** In the center of the room, in front of the sofa.
+   - **Armchair:** To the left of the coffee table.
+   - **Side Table:** To the left of the armchair.
+   - **Plant:** In the top right corner.
+   - **Stairs:** To the left of the sofa.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** ~2.5 meters long, 1 meter wide.
+   - **Coffee Table:** ~1.2 meters long, 0.6 meters wide.
+   - **Armchair:** ~0.8 meters wide, 0.8 meters deep.
+   - **Side Table:** ~0.5 meters wide, 0.5 meters deep.
+
+3. **Distances/Clearances:**
+   - 80 cm walkway between the sofa and the coffee table.
+   - 60 cm walkway between the armchair and the coffee table.
+   - 30 cm clearance between the side table and the armchair.
+
+4. **Orientation and Angles:**
+   - The sofa faces the coffee table, forming a U-shape.
+   - The coffee table is turned slightly towards the armchair.
+   - The armchair faces the coffee table at a 90-degree angle.
+
+5. **Room Style:**
+   - Minimalist style with a neutral color palette.
+   - Colors include beige, gray, brown, and white.
+   - Materials include leather (sofa), wood (floor and stairs), and fabric (armchair).
+
+6. **Room Size and Windows/Doors:**
+   - Room size: Approximately 4 meters by 4 meters.
+   - Large window on the left side.
+   - Door on the left side, leading to the stairs.
