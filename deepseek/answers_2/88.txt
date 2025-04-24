@@ -1,0 +1,74 @@
+You are a 2D interior design assistant. Think briefly using ... (do not reveal this) and then provide the final layout. Your final answer MUST be valid JSON wrapped in ... with no extra text. Create a layout for a Office with exactly 5 unique, common furniture items. Ensure realistic sizes for each item 'length' and 'width' and use the center coordinates (x, y) for positioning. All items must be strictly within room dimensions (length x width, where x corresponds to length and y to width): 6.5m x 7.2m, with a minimal gap of ~0.4m, and NO overlaps between objects. Choose only common furniture (e.g., bed, sofa, table, wardrobe, chair, bookshelf) and exclude items like 'window', 'wall', 'door', 'floor', or 'ceiling'.<｜User｜>Design a Office layout with exactly 5 common furniture items that fit strictly within the room dimensions (length x width): 6.5m x 7.2m without overlapping. Return ONLY valid JSON in ... tags. Follow this JSON schema:
+{
+  "type": "object",
+  "required": [
+    "objects"
+  ],
+  "properties": {
+    "objects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "size",
+          "position"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "size": {
+            "type": "object",
+            "required": [
+              "length",
+              "width"
+            ],
+            "properties": {
+              "length": {
+                "type": "number",
+                "minimum": 0.1
+              },
+              "width": {
+                "type": "number",
+                "minimum": 0.1
+              }
+            }
+          },
+          "position": {
+            "type": "object",
+            "required": [
+              "x",
+              "y"
+            ],
+            "properties": {
+              "x": {
+                "type": "number",
+                "minimum": 0
+              },
+              "y": {
+                "type": "number",
+                "minimum": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}<｜Assistant｜>
+Alright, so the user is asking for a layout of an office with exactly 5 unique furniture items. I need to make sure each item has realistic dimensions and they are all placed within a 6.5m by 7.2m area without overlapping. I should also choose common furniture like a bed, sofa, table, wardrobe, and chair.
+
+First, I'll consider the size requirements. The bed should have a reasonable space, maybe 1.2m x 0.8m, placed towards the front. The sofa can take up 0.8m x 1.2m, shifted to the right side for better flow. The wardrobe needs to be a bit more sizable, perhaps 0.6m x 0.4m, placed in the center top area. The desk should be around 0.4m x 0.4m, assigned to the back left. Finally, the chair should occupy 0.8m x 0.6m, assigned to the back right. 
+
+I need to calculate the positioning coordinates to ensure they fit within the room dimensions without overlapping. Each item's position should be calculated based on the remaining space after each placement. I'll use the room dimensions to calculate the exact starting points for each furniture item.
+
+I'll also make sure the layout is valid JSON format with objects for each item, specifying their names, sizes, and positioning. I'll structure the JSON with "objects" and "positions" arrays to keep it organized and easy to understand.
+
+Finally, I'll review the layout to ensure all items fit within the room, have realistic sizes, and are not overlapping. I'll check the positioning calculations to make sure each item is placed correctly and the gaps are minimal as requested.
+
+
+```json
+####
+```

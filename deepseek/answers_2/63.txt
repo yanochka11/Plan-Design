@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "name": "Main Bed",
+      "size": {
+        "length": 1.8,
+        "width": 0.8
+      },
+      "position": {
+        "x": 2,
+        "y": 3
+      }
+    },
+    {
+      "name": "Coffee Table",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "name": "Sideboard",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 4,
+        "y": 1
+      }
+    },
+    {
+      "name": "Wardrobe",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "name": "Sectional",
+      "size": {
+        "length": 0.8,
+        "width": 1.2
+      },
+      "position": {
+        "x": 4.5,
+        "y": 5.5
+      }
+    }
+  ]
+}

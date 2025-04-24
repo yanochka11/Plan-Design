@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "name": "Dining Table",
+      "size": {
+        "length": 0.9,
+        "width": 1.2
+      },
+      "position": {
+        "x": 4.5,
+        "y": 4.3
+      }
+    },
+    {
+      "name": "Sideboard",
+      "size": {
+        "length": 0.7,
+        "width": 0.5
+      },
+      "position": {
+        "x": 2.3,
+        "y": 6.2
+      }
+    },
+    {
+      "name": "Coffee Table",
+      "size": {
+        "length": 0.8,
+        "width": 0.6
+      },
+      "position": {
+        "x": 7.1,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Wardrobe",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 1.1,
+        "y": 2.8
+      }
+    },
+    {
+      "name": "Chair",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 8.6,
+        "y": 7.2
+      }
+    }
+  ]
+}

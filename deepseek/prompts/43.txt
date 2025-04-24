@@ -1,0 +1,60 @@
+<｜begin▁of▁sentence｜>You are a 2D interior design assistant. Think briefly using <think>...</think> (do not reveal this) and then provide the final layout. Your final answer MUST be valid JSON wrapped in <answer>...</answer> with no extra text. Create a layout for a Meeting Hall with exactly 5 unique, common furniture items. Ensure realistic sizes for each item 'length' and 'width' and use the center coordinates (x, y) for positioning. All items must be strictly within room dimensions (length x width, where x corresponds to length and y to width): 5.1m x 9.3m, with a minimal gap of ~0.4m, and NO overlaps between objects. Choose only common furniture (e.g., bed, sofa, table, wardrobe, chair, bookshelf) and exclude items like 'window', 'wall', 'door', 'floor', or 'ceiling'.<｜User｜>Design a Meeting Hall layout with exactly 5 common furniture items that fit strictly within the room dimensions (length x width): 5.1m x 9.3m without overlapping. Return ONLY valid JSON in <answer>...</answer> tags. Follow this JSON schema:
+{
+  "type": "object",
+  "required": [
+    "objects"
+  ],
+  "properties": {
+    "objects": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "size",
+          "position"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "size": {
+            "type": "object",
+            "required": [
+              "length",
+              "width"
+            ],
+            "properties": {
+              "length": {
+                "type": "number",
+                "minimum": 0.1
+              },
+              "width": {
+                "type": "number",
+                "minimum": 0.1
+              }
+            }
+          },
+          "position": {
+            "type": "object",
+            "required": [
+              "x",
+              "y"
+            ],
+            "properties": {
+              "x": {
+                "type": "number",
+                "minimum": 0
+              },
+              "y": {
+                "type": "number",
+                "minimum": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}<｜Assistant｜><think>

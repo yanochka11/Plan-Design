@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "name": "King-size Sofa",
+      "size": {
+        "length": 0.8,
+        "width": 0.6
+      },
+      "position": {
+        "x": 2.5,
+        "y": 1.7
+      }
+    },
+    {
+      "name": "Desk",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 4.1,
+        "y": 0.9
+      }
+    },
+    {
+      "name": "Chair",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 2.1,
+        "y": 8.1
+      }
+    },
+    {
+      "name": "Wardrobe",
+      "size": {
+        "length": 0.7,
+        "width": 0.5
+      },
+      "position": {
+        "x": 4.1,
+        "y": 6.1
+      }
+    },
+    {
+      "name": "Bed",
+      "size": {
+        "length": 0.7,
+        "width": 0.5
+      },
+      "position": {
+        "x": 1.1,
+        "y": 8.3
+      }
+    }
+  ]
+}

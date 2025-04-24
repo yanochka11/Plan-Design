@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "name": "Bed",
+      "size": {
+        "length": 1.4,
+        "width": 0.8
+      },
+      "position": {
+        "x": 4.55,
+        "y": 2.45
+      }
+    },
+    {
+      "name": "Sofa",
+      "size": {
+        "length": 0.8,
+        "width": 0.6
+      },
+      "position": {
+        "x": 1.2,
+        "y": 1.2
+      }
+    },
+    {
+      "name": "Desk",
+      "size": {
+        "length": 0.6,
+        "width": 0.4
+      },
+      "position": {
+        "x": 4.1,
+        "y": 1.7
+      }
+    },
+    {
+      "name": "Wardrobe",
+      "size": {
+        "length": 0.6,
+        "width": 0.5
+      },
+      "position": {
+        "x": 0.8,
+        "y": 3.7
+      }
+    },
+    {
+      "name": "Chair",
+      "size": {
+        "length": 0.5,
+        "width": 0.4
+      },
+      "position": {
+        "x": 6.1,
+        "y": 4.0
+      }
+    }
+  ]
+}
