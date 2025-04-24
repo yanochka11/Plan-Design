@@ -1,0 +1,60 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**: 
+   - Location: Center-left of the room
+   - Dimensions: ~3 meters long, L-shaped
+   - Orientation: Faces right, surrounding coffee tables
+
+2. **Coffee Table**:
+   - Location: In front of the sofa
+   - Dimensions: Two tables, each ~1×1 meter
+   - Clearance: ~0.5 meters between sofa and tables
+
+3. **Dining Table**:
+   - Location: Center-right of the room
+   - Dimensions: ~2×1 meters
+   - Orientation: Parallel to the bottom wall
+
+4. **Chairs**:
+   - Location: Surrounding the dining table
+   - Number: 6
+   - Dimensions: Each ~0.6×0.6 meters
+
+5. **Rug**:
+   - Location: Under the sofa and coffee tables
+   - Dimensions: ~3×4 meters
+   - Orientation: Aligned with the sofa
+
+6. **Side Table**:
+   - Location: Near the top-left corner, next to the sofa
+   - Dimensions: ~0.5×0.5 meters
+
+7. **Floor Lamp**:
+   - Location: Near the top-left corner, next to the side table
+
+8. **Bar Counter**:
+   - Location: Right side of the room, against the wall
+   - Dimensions: ~2×0.5 meters
+   - Orientation: Parallel to the wall
+
+9. **Shelves**:
+   - Location: Above the bar counter
+   - Orientation: Wall-mounted
+
+10. **TV Stand**:
+    - Location: Left side of the room, against the wall
+    - Dimensions: ~2 meters wide
+    - Orientation: Parallel to the wall
+
+11. **Window**:
+    - Location: Top and right sides of the room
+    - Dimensions: Large, spanning most of the wall height
+
+**Style**: 
+- Modern and minimalist, with neutral colors and materials like wood, marble, and fabric.
+
+**Room Size**: 
+- Estimated to be around 6×8 meters.
+
+**Doors**:
+- Not visible in this view.

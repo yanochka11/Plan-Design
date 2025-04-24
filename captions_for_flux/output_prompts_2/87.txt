@@ -1,0 +1,51 @@
+This is a top-down view from the center of the living room.
+
+1. **Dining Table**: 
+   - Location: Left side of the room.
+   - Dimensions: ~1.2 x 0.8 meters.
+   - Orientation: Parallel to the bottom wall.
+   - Style: Marble top with a decorative item on it.
+
+2. **Chairs (4)**:
+   - Location: Surrounding the dining table.
+   - Dimensions: ~0.5 x 0.5 meters each.
+   - Orientation: Facing the dining table.
+
+3. **Sofa**:
+   - Location: Top center of the room.
+   - Dimensions: ~2 meters long.
+   - Orientation: Parallel to the top wall.
+   - Style: Beige with green and gray pillows.
+
+4. **Coffee Table**:
+   - Location: Center of the room, on the rug.
+   - Dimensions: ~1 x 0.6 meters.
+   - Orientation: Parallel to the sofa.
+
+5. **Armchair**:
+   - Location: Bottom right corner.
+   - Dimensions: ~0.8 x 0.8 meters.
+   - Orientation: Facing the coffee table.
+   - Style: Green fabric.
+
+6. **Rug**:
+   - Location: Under the coffee table and partially under the sofa.
+   - Dimensions: ~2.5 x 1.8 meters.
+   - Style: Light-colored with a subtle pattern.
+
+7. **Window**:
+   - Location: Right side of the room.
+   - Dimensions: ~2 meters tall.
+   - Orientation: Vertical, with blinds.
+
+8. **Style of the Room**:
+   - Modern and minimalist.
+   - Colors: Neutral tones with beige, brown, and green accents.
+   - Materials: Wood flooring, marble table, fabric upholstery.
+
+9. **Estimated Overall Room Size**:
+   - ~4 x 5 meters.
+
+10. **Location of Windows and Doors**:
+    - Window: Right side of the room.
+    - No visible doors in this view.

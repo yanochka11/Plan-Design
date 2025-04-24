@@ -1,0 +1,20 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa_1**: Located against the left wall, approximately 2.5 meters long, facing the center of the room.
+2. **Sofa_2**: Positioned in the lower left corner, approximately 2 meters long, forming an L-shape with Sofa_1.
+3. **Coffee Table**: In the center of the room, near Sofa_1, approximately 0.8×0.8 meters, with a small clearance around it.
+4. **Dining Table**: Against the right wall, approximately 1.5×0.8 meters, surrounded by six chairs.
+5. **Chairs**: Six chairs around the dining table, each approximately 0.5 meters wide.
+6. **Side Table**: Near the upper end of Sofa_1, small and square, approximately 0.4×0.4 meters.
+7. **TV Stand**: Against the left wall, under a mounted screen, approximately 1.5 meters wide.
+8. **Window**: Large window on the top wall, allowing natural light into the room.
+
+**Style**: The room has a modern and minimalist style with neutral colors, primarily grays and browns. The flooring is wooden, and the walls are white with decorative molding.
+
+**Room Size**: Estimated to be around 6×6 meters.
+
+**Clearances**: 
+- Approximately 1 meter between the coffee table and sofas.
+- Dining table is about 1 meter away from the wall.
+
+**Orientation**: The sofas and coffee table are oriented towards the center, while the dining table is parallel to the right wall.

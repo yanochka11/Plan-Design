@@ -1,0 +1,54 @@
+This is a top-down view from the center of the living room.
+
+1. **Dining Table**: 
+   - Location: Center-left of the room.
+   - Dimensions: ~1.2 x 0.8 meters.
+   - Orientation: Parallel to the bottom wall.
+   - Chairs: Six chairs, three on each side.
+
+2. **Coffee Table**: 
+   - Location: Center-right of the room.
+   - Dimensions: ~0.8 x 0.6 meters.
+   - Orientation: Parallel to the sofa.
+
+3. **Sofa**: 
+   - Location: Right side of the room.
+   - Dimensions: ~2 meters long.
+   - Orientation: Facing the coffee table.
+
+4. **Armchair**: 
+   - Location: Top-right corner.
+   - Orientation: Facing the coffee table.
+
+5. **Rug**: 
+   - Location: Under the coffee table and sofa.
+   - Dimensions: ~2 x 2 meters.
+   - Style: Geometric pattern.
+
+6. **Kitchen Island**: 
+   - Location: Bottom center of the room.
+   - Dimensions: ~1.5 x 0.8 meters.
+   - Orientation: Parallel to the bottom wall.
+   - Stools: Three stools on the far side.
+
+7. **Bed**: 
+   - Location: Left side of the room.
+   - Dimensions: ~1.5 x 2 meters.
+   - Orientation: Parallel to the left wall.
+
+8. **Window**: 
+   - Location: Top center of the room.
+   - Dimensions: Large, spanning the width of the room.
+   - Orientation: Horizontal.
+
+**Style of the Room**: 
+- Modern and minimalist.
+- Colors: Neutral tones with light wood flooring.
+- Materials: Wood, fabric, and metal.
+
+**Estimated Room Size**: 
+- Approximately 5 x 6 meters.
+
+**Location of Windows and Doors**: 
+- Windows: Top center of the room.
+- Doors: Not visible in this view.

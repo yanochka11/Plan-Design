@@ -1,0 +1,50 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**
+   - Location: Center-left of the room
+   - Dimensions: ~3 meters long, ~1.5 meters wide
+   - Orientation: Faces the coffee table
+
+2. **Coffee Table**
+   - Location: Center of the room
+   - Dimensions: ~1.5×0.8 meters
+   - Clearance: ~0.5 meters between sofa and coffee table
+
+3. **Armchair**
+   - Location: Two armchairs, one on each side of the coffee table
+   - Dimensions: ~0.8×0.8 meters each
+   - Orientation: Facing the coffee table
+
+4. **Rug**
+   - Location: Under the coffee table
+   - Dimensions: ~2.5×1.5 meters
+
+5. **Floor Lamp**
+   - Location: Near the right armchair
+   - Orientation: Standing upright, light directed towards the seating area
+
+6. **Floor Plant**
+   - Location: Two plants, one near the bottom right corner, one near the bottom left corner
+   - Dimensions: ~1 meter tall
+
+7. **Window**
+   - Location: Right side of the room
+   - Dimensions: Large glass panels, floor-to-ceiling
+
+8. **Shelves**
+   - Location: Upper right corner, built into the ceiling
+   - Style: Open shelving with various items
+
+9. **Style of the Room**
+   - Modern and minimalist
+   - Colors: Neutral tones with beige, gray, and wood accents
+   - Materials: Concrete, wood, glass
+
+10. **Estimated Room Size**
+    - Approximately 6×6 meters
+
+11. **Location of Windows and Doors**
+    - Windows: Right wall, floor-to-ceiling
+    - Doors: Not visible in this view
+
+This layout provides a clear and modern aesthetic, suitable for a minimalist design approach.

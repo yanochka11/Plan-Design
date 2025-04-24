@@ -1,0 +1,41 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**: 
+   - Location: Center of the room, along the left side.
+   - Dimensions: Approximately 3 meters long.
+   - Orientation: Faces the coffee table.
+
+2. **Armchair_1 and Armchair_2**:
+   - Location: Right side of the room, near the coffee table.
+   - Dimensions: Each armchair is approximately 0.8 meters wide.
+   - Orientation: Both face the coffee table.
+
+3. **Coffee Table**:
+   - Location: Center of the room, between the sofa and armchairs.
+   - Dimensions: Approximately 1.2 × 0.6 meters.
+   - Orientation: Parallel to the sofa.
+
+4. **Side Table**:
+   - Location: Near the bottom right corner, beside Armchair_2.
+   - Dimensions: Small, approximately 0.5 meters in diameter.
+
+5. **Rug**:
+   - Location: Under the coffee table, extending under the sofa and armchairs.
+   - Dimensions: Large, approximately 3 × 4 meters.
+   - Orientation: Aligned with the room's layout.
+
+6. **Floor Lamp**:
+   - Location: Near the bottom right corner, beside the side table.
+   - Orientation: Positioned to illuminate the area near the armchairs.
+
+7. **Window**:
+   - Location: Right side of the room, providing natural light.
+
+**Style of the Room**:
+- Modern and minimalist, with neutral colors such as beige, gray, and white. The materials include a plush sofa, a wooden coffee table, and a textured rug.
+
+**Estimated Overall Room Size**:
+- Approximately 5 × 6 meters.
+
+**Location of Windows and Doors**:
+- The window is on the right side of the room. No doors are visible in this view.

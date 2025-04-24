@@ -1,0 +1,37 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**
+   - Location: Against the right wall.
+   - Dimensions: Approximately 2.5 meters long.
+   - Orientation: Faces the coffee table.
+
+2. **Chair**
+   - Location: To the right of the coffee table.
+   - Dimensions: Approximately 0.8 meters wide.
+   - Orientation: Faces the coffee table.
+
+3. **Coffee Table**
+   - Location: Center of the room.
+   - Dimensions: Approximately 1.5 x 0.8 meters.
+   - Clearance: About 0.5 meters between the sofa and the coffee table.
+
+4. **Side Table**
+   - Location: To the right of the sofa.
+   - Dimensions: Small, approximately 0.5 x 0.5 meters.
+
+5. **Rug**
+   - Location: Under the coffee table and partially under the sofa and chair.
+   - Dimensions: Approximately 2.5 x 2 meters.
+
+6. **Window**
+   - Location: On the left wall.
+   - Dimensions: Large, spanning almost the entire wall height.
+
+**Style of the Room:**
+- Modern and minimalist with neutral colors. The room features light gray walls, a gray rug with geometric patterns, and a mix of beige, brown, and green furniture.
+
+**Estimated Overall Room Size:**
+- Approximately 4 x 5 meters.
+
+**Location of Windows and Doors:**
+- The window is on the left wall. No doors are visible in this view.

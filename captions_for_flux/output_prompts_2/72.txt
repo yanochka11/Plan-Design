@@ -1,0 +1,30 @@
+This is a top-down view from the center of the living room.
+
+1. **Items and Locations:**
+   - **Sofa:** Center of the room, ~2.5 meters long, beige color, facing the coffee tables.
+   - **Armchair_1:** Top left, ~1 meter wide, white, facing the sofa.
+   - **Armchair_2:** Top right, ~1 meter wide, white, facing the sofa.
+   - **Coffee Table_1:** Center, ~0.8 meters in diameter, dark color, between the sofa and armchairs.
+   - **Coffee Table_2:** Center, ~0.6 meters in diameter, dark color, next to Coffee Table_1.
+   - **Rug:** Under the coffee tables and sofa, ~3×2 meters, light gray.
+   - **Floor Plant:** Top left corner, in a pot, next to the wall.
+   - **Shelves:** Left wall, built-in, light wood, with plants and decor.
+   - **Window:** Top wall, large, spanning the width of the room, allowing natural light.
+
+2. **Dimensions and Distances:**
+   - The distance between the sofa and coffee tables is ~0.5 meters.
+   - Armchairs are ~1 meter apart from each other and the sofa.
+
+3. **Orientation and Angles:**
+   - The sofa is oriented horizontally across the room.
+   - Armchairs are positioned at a slight angle towards the center.
+
+4. **Style of the Room:**
+   - Modern and minimalist style with neutral colors like beige, white, and gray. Materials include wood for the shelves and a sleek finish for the furniture.
+
+5. **Estimated Room Size:**
+   - Approximately 5×5 meters.
+
+6. **Location of Windows and Doors:**
+   - The window is on the top wall, covering most of the wall's length.
+   - No doors are visible in this view.

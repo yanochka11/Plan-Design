@@ -1,0 +1,45 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**: 
+   - Location: Along the right wall, forming an L-shape.
+   - Dimensions: Approximately 2.5 meters long.
+   - Orientation: Faces the center of the room.
+
+2. **Coffee Table**:
+   - Location: Center of the room.
+   - Dimensions: Two tables, one ~1.2×0.6 meters, the other ~0.8×0.8 meters.
+   - Orientation: Parallel to the sofa.
+
+3. **Ottoman**:
+   - Location: Near the coffee tables.
+   - Dimensions: ~0.8×0.8 meters.
+   - Orientation: Facing the coffee tables.
+
+4. **Floor Plant**:
+   - Location: Bottom left corner.
+   - Dimensions: Medium-sized plant.
+   - Orientation: Upright.
+
+5. **Side Table**:
+   - Location: Left side, near the bottom corner.
+   - Dimensions: Small, circular.
+   - Orientation: Adjacent to the plant.
+
+6. **Stool**:
+   - Location: Near the top left corner.
+   - Dimensions: Small, square.
+   - Orientation: Facing the center.
+
+7. **Window**:
+   - Location: Left wall.
+   - Dimensions: Large, floor-to-ceiling.
+   - Orientation: Allows natural light into the room.
+
+**Style**: 
+- The room has a modern and minimalist style with neutral colors like white, brown, and gray. The materials include wood flooring and fabric upholstery.
+
+**Estimated Room Size**: 
+- Approximately 4×5 meters.
+
+**Location of Windows and Doors**:
+- The window is on the left wall. No doors are visible in this view.

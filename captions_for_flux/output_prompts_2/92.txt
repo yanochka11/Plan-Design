@@ -1,0 +1,38 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**
+   - Location: Against the left wall, forming an L-shape.
+   - Dimensions: Approximately 2.5 meters long.
+   - Orientation: Faces the coffee table.
+
+2. **Coffee Table**
+   - Location: Center of the room.
+   - Dimensions: Approximately 1×1 meter.
+   - Clearance: About 0.8 meters from the sofa.
+
+3. **TV Stand**
+   - Location: Against the right wall.
+   - Dimensions: Approximately 1.5×0.5 meters.
+   - Orientation: Faces the sofa.
+
+4. **Rug**
+   - Location: Under the coffee table.
+   - Dimensions: Approximately 2×2 meters.
+
+5. **Shelves**
+   - Location: Above the TV stand.
+   - Dimensions: Small, integrated into the wall.
+
+6. **Window**
+   - Location: Along the top wall.
+   - Dimensions: Large, spanning most of the wall.
+   - Orientation: Allows natural light to enter.
+
+**Style of the Room:**
+- Modern and minimalist, with neutral tones and wood textures. The sofa is a warm terracotta color, and the floor features a herringbone pattern.
+
+**Estimated Room Size:**
+- Approximately 4×5 meters.
+
+**Location of Windows and Doors:**
+- The window is on the top wall, and there is a door on the left wall, partially visible.

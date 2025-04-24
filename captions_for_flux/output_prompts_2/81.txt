@@ -1,0 +1,52 @@
+This is a top-down view from the center of the living room.
+
+1. **Sofa**: 
+   - Location: Against the left wall.
+   - Dimensions: Approximately 2.5 meters long.
+   - Orientation: Faces the center of the room.
+
+2. **Coffee Table**:
+   - Location: In front of the sofa.
+   - Dimensions: Approximately 0.8×0.8 meters.
+   - Clearance: About 0.5 meters between the sofa and coffee table.
+
+3. **Rug**:
+   - Location: Center of the room, under the coffee table.
+   - Dimensions: Approximately 2×3 meters.
+
+4. **Dining Table**:
+   - Location: Right side of the room, near the center.
+   - Dimensions: Approximately 1.2×0.6 meters.
+   - Orientation: Parallel to the right wall.
+
+5. **Chairs**:
+   - Location: Two chairs around the dining table.
+   - Dimensions: Approximately 0.5×0.5 meters each.
+
+6. **Shelves**:
+   - Location: Against the right wall, above the dining area.
+   - Dimensions: Approximately 1.5 meters long.
+
+7. **Cabinet**:
+   - Location: Against the right wall, below the shelves.
+   - Dimensions: Approximately 1.5 meters long.
+
+8. **Stairs**:
+   - Location: Center-left of the room.
+   - Orientation: Ascends towards the back wall.
+
+9. **Windows**:
+   - Location: Back wall and right wall.
+   - Dimensions: Multiple windows, approximately 1 meter wide each.
+
+10. **Floor Plant**:
+    - Location: Top left corner, near the sofa.
+
+**Style**: 
+- Modern and minimalist, with light wood flooring and neutral colors.
+
+**Estimated Room Size**: 
+- Approximately 6×8 meters.
+
+**Location of Windows and Doors**:
+- Windows are on the back and right walls. No doors are visible in this view.
