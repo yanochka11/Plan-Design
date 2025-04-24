@@ -1,0 +1,95 @@
+{
+  "image": "99_jpg.rf.1eb623a4117020a602591daccbd334df.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 534,
+        "y": 361,
+        "width": 527,
+        "height": 182
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 723,
+        "y": 607,
+        "width": 205,
+        "height": 301
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 188,
+        "y": 327,
+        "width": 124,
+        "height": 120
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 469,
+        "y": 602,
+        "width": 140,
+        "height": 204
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 176,
+        "y": 590,
+        "width": 214,
+        "height": 214
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 410,
+        "y": 610,
+        "width": 489,
+        "height": 325
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 841,
+        "y": 361,
+        "width": 73,
+        "height": 92
+      }
+    },
+    {
+      "label": "floor vase",
+      "coordinates": {
+        "x": 97,
+        "y": 358,
+        "width": 43,
+        "height": 45
+      }
+    },
+    {
+      "label": "floor vase",
+      "coordinates": {
+        "x": 98,
+        "y": 307,
+        "width": 40,
+        "height": 29
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 980,
+        "y": 568,
+        "width": 17,
+        "height": 330
+      }
+    }
+  ]
+}

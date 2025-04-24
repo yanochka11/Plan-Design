@@ -1,0 +1,149 @@
+{
+  "image": "34_jpg.rf.e544a6203e218e5dfacebdc38621a404.jpg",
+  "annotations": [
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 788,
+        "y": 914,
+        "width": 175,
+        "height": 64
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 917,
+        "y": 405,
+        "width": 71,
+        "height": 241
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 916,
+        "y": 630,
+        "width": 66,
+        "height": 136
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 100,
+        "y": 300,
+        "width": 180,
+        "height": 156
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 160,
+        "y": 190,
+        "width": 41,
+        "height": 56
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 125,
+        "y": 775,
+        "width": 99,
+        "height": 100
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 298,
+        "y": 180,
+        "width": 159,
+        "height": 137
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 594,
+        "y": 51,
+        "width": 617,
+        "height": 102
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 266,
+        "y": 883,
+        "width": 118,
+        "height": 176
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 790,
+        "y": 409,
+        "width": 172,
+        "height": 247
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 471,
+        "y": 462,
+        "width": 455,
+        "height": 144
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 561,
+        "y": 616,
+        "width": 630,
+        "height": 162
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 788,
+        "y": 788,
+        "width": 172,
+        "height": 169
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 135,
+        "y": 19,
+        "width": 262,
+        "height": 30
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 965,
+        "y": 17,
+        "width": 112,
+        "height": 26
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 602,
+        "y": 569,
+        "width": 804,
+        "height": 857
+      }
+    }
+  ]
+}

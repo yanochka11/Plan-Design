@@ -1,0 +1,131 @@
+{
+  "image": "77_jpg.rf.8e6022cc78b4fc73360c9ef822e499f2.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 511,
+        "y": 307,
+        "width": 548,
+        "height": 246
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 102,
+        "y": 512,
+        "width": 124,
+        "height": 184
+      }
+    },
+    {
+      "label": "shelves",
+      "coordinates": {
+        "x": 906,
+        "y": 113,
+        "width": 235,
+        "height": 112
+      }
+    },
+    {
+      "label": "shelves",
+      "coordinates": {
+        "x": 119,
+        "y": 115,
+        "width": 236,
+        "height": 115
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 380,
+        "y": 655,
+        "width": 472,
+        "height": 332
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 226,
+        "y": 673,
+        "width": 158,
+        "height": 156
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 101,
+        "y": 840,
+        "width": 125,
+        "height": 189
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 688,
+        "y": 807,
+        "width": 392,
+        "height": 277
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 745,
+        "y": 552,
+        "width": 225,
+        "height": 216
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 10,
+        "y": 346,
+        "width": 19,
+        "height": 225
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 11,
+        "y": 689,
+        "width": 19,
+        "height": 208
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 12,
+        "y": 973,
+        "width": 21,
+        "height": 102
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1014,
+        "y": 412,
+        "width": 16,
+        "height": 385
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1014,
+        "y": 817,
+        "width": 17,
+        "height": 414
+      }
+    }
+  ]
+}

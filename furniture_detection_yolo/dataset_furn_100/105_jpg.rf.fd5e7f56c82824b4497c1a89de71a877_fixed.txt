@@ -1,0 +1,194 @@
+{
+  "image": "105_jpg.rf.fd5e7f56c82824b4497c1a89de71a877.jpg",
+  "annotations": [
+    {
+      "label": "kitchen island",
+      "coordinates": {
+        "x": 253.0,
+        "y": 246.5,
+        "width": 110,
+        "height": 237
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 269.0,
+        "y": 468.5,
+        "width": 78,
+        "height": 210
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 522.0,
+        "y": 324.5,
+        "width": 83,
+        "height": 113
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 668.0,
+        "y": 249.5,
+        "width": 115,
+        "height": 128
+      }
+    },
+    {
+      "label": "sideboard",
+      "coordinates": {
+        "x": 878.0,
+        "y": 290.5,
+        "width": 65,
+        "height": 369
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 863.0,
+        "y": 77.5,
+        "width": 54,
+        "height": 48
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 771.0,
+        "y": 470.5,
+        "width": 121,
+        "height": 87
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 653.0,
+        "y": 468.5,
+        "width": 114,
+        "height": 86
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 332.0,
+        "y": 410.5,
+        "width": 53,
+        "height": 56
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 214.0,
+        "y": 412.5,
+        "width": 37,
+        "height": 59
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 334.0,
+        "y": 504.5,
+        "width": 54,
+        "height": 68
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 214.0,
+        "y": 503.5,
+        "width": 36,
+        "height": 63
+      }
+    },
+    {
+      "label": "modular kitchen",
+      "coordinates": {
+        "x": 76.0,
+        "y": 309.5,
+        "width": 132,
+        "height": 548
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 676.0,
+        "y": 271.5,
+        "width": 251,
+        "height": 322
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 514.0,
+        "y": 205.5,
+        "width": 97,
+        "height": 119
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 651.0,
+        "y": 90.5,
+        "width": 372,
+        "height": 99
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 392.0,
+        "y": 88.5,
+        "width": 84,
+        "height": 92
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 221.0,
+        "y": 19.5,
+        "width": 152,
+        "height": 19
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 403.0,
+        "y": 18.5,
+        "width": 126,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 625.0,
+        "y": 18.5,
+        "width": 126,
+        "height": 17
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 829.0,
+        "y": 18.5,
+        "width": 184,
+        "height": 17
+      }
+    }
+  ]
+}

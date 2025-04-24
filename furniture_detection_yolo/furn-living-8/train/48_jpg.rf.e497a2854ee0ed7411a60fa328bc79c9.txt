@@ -1,0 +1,77 @@
+{
+  "image": "48_jpg.rf.e497a2854ee0ed7411a60fa328bc79c9.jpg",
+  "annotations": [
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 571,
+        "y": 653,
+        "width": 223,
+        "height": 225
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 840,
+        "y": 562,
+        "width": 152,
+        "height": 730
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 629,
+        "y": 357,
+        "width": 163,
+        "height": 183
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 496,
+        "y": 550,
+        "width": 448,
+        "height": 605
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 343,
+        "y": 345,
+        "width": 392,
+        "height": 222
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 265,
+        "y": 654,
+        "width": 232,
+        "height": 382
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 664,
+        "y": 15,
+        "width": 505,
+        "height": 24
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 161,
+        "y": 15,
+        "width": 117,
+        "height": 25
+      }
+    }
+  ]
+}

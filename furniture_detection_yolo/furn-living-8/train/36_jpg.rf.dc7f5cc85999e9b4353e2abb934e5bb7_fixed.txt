@@ -1,0 +1,122 @@
+{
+  "image": "36_jpg.rf.dc7f5cc85999e9b4353e2abb934e5bb7.jpg",
+  "annotations": [
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 840.5,
+        "y": 66.0,
+        "width": 182,
+        "height": 40
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 254.5,
+        "y": 93.0,
+        "width": 90,
+        "height": 104
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 442.5,
+        "y": 92.0,
+        "width": 82,
+        "height": 105
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 540.5,
+        "y": 343.0,
+        "width": 192,
+        "height": 195
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 336.5,
+        "y": 272.0,
+        "width": 193,
+        "height": 236
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 403.5,
+        "y": 638.0,
+        "width": 157,
+        "height": 165
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 258.5,
+        "y": 666.0,
+        "width": 102,
+        "height": 99
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 291.5,
+        "y": 510.0,
+        "width": 88,
+        "height": 89
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 61.5,
+        "y": 100.0,
+        "width": 103,
+        "height": 180
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 838.5,
+        "y": 321.0,
+        "width": 194,
+        "height": 451
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 710.5,
+        "y": 646.0,
+        "width": 451,
+        "height": 191
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 23.5,
+        "y": 326.0,
+        "width": 26,
+        "height": 262
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 23.5,
+        "y": 618.0,
+        "width": 26,
+        "height": 305
+      }
+    }
+  ]
+}

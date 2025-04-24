@@ -1,0 +1,113 @@
+{
+  "image": "89_jpg.rf.e7b7f5dff674cdc7638ca33430463b48.jpg",
+  "annotations": [
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 865,
+        "y": 767,
+        "width": 311,
+        "height": 135
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 357,
+        "y": 231,
+        "width": 357,
+        "height": 114
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 341,
+        "y": 542,
+        "width": 211,
+        "height": 136
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 53,
+        "y": 796,
+        "width": 101,
+        "height": 70
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 60,
+        "y": 581,
+        "width": 90,
+        "height": 97
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 946,
+        "y": 578,
+        "width": 134,
+        "height": 235
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 805,
+        "y": 532,
+        "width": 134,
+        "height": 96
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 810,
+        "y": 633,
+        "width": 134,
+        "height": 95
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 357,
+        "y": 587,
+        "width": 480,
+        "height": 437
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 87,
+        "y": 232,
+        "width": 173,
+        "height": 114
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 606,
+        "y": 671,
+        "width": 189,
+        "height": 327
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 312,
+        "y": 733,
+        "width": 391,
+        "height": 199
+      }
+    }
+  ]
+}

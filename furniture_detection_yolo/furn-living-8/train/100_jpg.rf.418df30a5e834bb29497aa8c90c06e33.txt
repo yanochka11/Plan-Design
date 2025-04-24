@@ -1,0 +1,113 @@
+{
+  "image": "100_jpg.rf.418df30a5e834bb29497aa8c90c06e33.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 344,
+        "y": 269,
+        "width": 464,
+        "height": 184
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 309,
+        "y": 545,
+        "width": 197,
+        "height": 194
+      }
+    },
+    {
+      "label": "bar counter",
+      "coordinates": {
+        "x": 937,
+        "y": 432,
+        "width": 158,
+        "height": 531
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 785,
+        "y": 338,
+        "width": 70,
+        "height": 66
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 784,
+        "y": 584,
+        "width": 71,
+        "height": 66
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 341,
+        "y": 602,
+        "width": 364,
+        "height": 400
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 784,
+        "y": 468,
+        "width": 74,
+        "height": 67
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 615,
+        "y": 268,
+        "width": 46,
+        "height": 47
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 553,
+        "y": 655,
+        "width": 144,
+        "height": 164
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 13,
+        "y": 277,
+        "width": 21,
+        "height": 272
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 13,
+        "y": 555,
+        "width": 22,
+        "height": 277
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 13,
+        "y": 795,
+        "width": 22,
+        "height": 195
+      }
+    }
+  ]
+}

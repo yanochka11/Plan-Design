@@ -1,0 +1,163 @@
+[
+  {
+    "room_dimensions": [
+      4.74,
+      5.61,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 3.36,
+      "width": 1.03,
+      "height": 0.72
+    },
+    "position": {
+      "x": 4.02,
+      "y": 2.5,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 2.11,
+      "width": 1.06,
+      "height": 0.72
+    },
+    "position": {
+      "x": 1.98,
+      "y": 1.02,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.35,
+      "width": 0.3,
+      "height": 1.44
+    },
+    "position": {
+      "x": 0.42,
+      "y": 1.13,
+      "z": 0.72
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 3.27,
+      "width": 2.72,
+      "height": 0.02
+    },
+    "position": {
+      "x": 2.3,
+      "y": 3.47,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.24,
+      "width": 0.75,
+      "height": 0.41
+    },
+    "position": {
+      "x": 1.82,
+      "y": 3.25,
+      "z": 0.205
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 0.73,
+      "width": 0.64,
+      "height": 0.9
+    },
+    "position": {
+      "x": 1.49,
+      "y": 5.05,
+      "z": 0.45
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_2",
+    "size_in_meters": {
+      "length": 0.67,
+      "width": 0.63,
+      "height": 0.9
+    },
+    "position": {
+      "x": 2.94,
+      "y": 5.11,
+      "z": 0.45
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.43,
+      "width": 0.41,
+      "height": 0.45
+    },
+    "position": {
+      "x": 2.24,
+      "y": 5.03,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 0.65,
+      "width": 0.1,
+      "height": 1.26
+    },
+    "position": {
+      "x": 0.47,
+      "y": 0.13,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_2",
+    "size_in_meters": {
+      "length": 1.41,
+      "width": 0.1,
+      "height": 1.26
+    },
+    "position": {
+      "x": 1.82,
+      "y": 0.13,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_3",
+    "size_in_meters": {
+      "length": 1.39,
+      "width": 0.1,
+      "height": 1.26
+    },
+    "position": {
+      "x": 3.63,
+      "y": 0.12,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  }
+]

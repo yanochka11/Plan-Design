@@ -1,0 +1,107 @@
+[
+  {
+    "room_dimensions": [
+      3.29,
+      4.72,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 1.49,
+      "width": 0.87,
+      "height": 0.72
+    },
+    "position": {
+      "x": 2.68,
+      "y": 1.38,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 0.9,
+      "width": 0.86,
+      "height": 0.9
+    },
+    "position": {
+      "x": 1.07,
+      "y": 0.63,
+      "z": 0.45
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 2.08,
+      "width": 1.43,
+      "height": 0.02
+    },
+    "position": {
+      "x": 0.96,
+      "y": 2.78,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "ottoman_1",
+    "size_in_meters": {
+      "length": 0.98,
+      "width": 0.58,
+      "height": 0.36
+    },
+    "position": {
+      "x": 0.91,
+      "y": 2.96,
+      "z": 0.18
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 1.51,
+      "width": 0.86,
+      "height": 0.72
+    },
+    "position": {
+      "x": 2.69,
+      "y": 3.7,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.74,
+      "width": 0.3,
+      "height": 0.45
+    },
+    "position": {
+      "x": 2.61,
+      "y": 2.55,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.32,
+      "width": 0.27,
+      "height": 1.44
+    },
+    "position": {
+      "x": 1.91,
+      "y": 0.64,
+      "z": 0.72
+    },
+    "rotation_z": 90
+  }
+]

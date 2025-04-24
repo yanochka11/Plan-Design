@@ -1,0 +1,113 @@
+{
+  "image": "50_jpg.rf.1edf777ceb60e99bf8f24da63890bb85.jpg",
+  "annotations": [
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 312.5,
+        "y": 888.5,
+        "width": 295,
+        "height": 68
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 594.5,
+        "y": 486.5,
+        "width": 281,
+        "height": 190
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 42.5,
+        "y": 389.5,
+        "width": 62,
+        "height": 56
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 35.5,
+        "y": 317.5,
+        "width": 51,
+        "height": 56
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 495.5,
+        "y": 517.5,
+        "width": 746,
+        "height": 675
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 496.5,
+        "y": 42.5,
+        "width": 343,
+        "height": 63
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 837.5,
+        "y": 42.5,
+        "width": 331,
+        "height": 65
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 238.5,
+        "y": 493.5,
+        "width": 220,
+        "height": 372
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 311.5,
+        "y": 767.5,
+        "width": 368,
+        "height": 166
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 685.5,
+        "y": 796.5,
+        "width": 370,
+        "height": 223
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 228.5,
+        "y": 42.5,
+        "width": 181,
+        "height": 64
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 779.5,
+        "y": 282.5,
+        "width": 167,
+        "height": 186
+      }
+    }
+  ]
+}

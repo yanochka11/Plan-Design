@@ -1,0 +1,104 @@
+{
+  "image": "40_jpg.rf.efe5cc684c0efe60f2c36397df3cfe76.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 599.0,
+        "y": 562.5,
+        "width": 178,
+        "height": 511
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 96.0,
+        "y": 549.5,
+        "width": 172,
+        "height": 327
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 275.0,
+        "y": 282.5,
+        "width": 151,
+        "height": 128
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 106.0,
+        "y": 308.5,
+        "width": 72,
+        "height": 72
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 356.0,
+        "y": 568.5,
+        "width": 448,
+        "height": 593
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 624.0,
+        "y": 198.5,
+        "width": 66,
+        "height": 71
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 86.0,
+        "y": 785.5,
+        "width": 76,
+        "height": 76
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 532.282007,
+        "y": 886.1238089999999,
+        "width": 122.115364,
+        "height": 117.8811179999999
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 197.0,
+        "y": 20.5,
+        "width": 316,
+        "height": 21
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 520.0,
+        "y": 20.5,
+        "width": 319,
+        "height": 21
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 223.0,
+        "y": 864.5,
+        "width": 166,
+        "height": 226
+      }
+    }
+  ]
+}

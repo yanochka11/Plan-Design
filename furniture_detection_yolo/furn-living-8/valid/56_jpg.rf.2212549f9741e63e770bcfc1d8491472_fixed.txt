@@ -1,0 +1,140 @@
+{
+  "image": "56_jpg.rf.2212549f9741e63e770bcfc1d8491472.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 845.5,
+        "y": 480.0,
+        "width": 195,
+        "height": 306
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 450.5,
+        "y": 682.0,
+        "width": 304,
+        "height": 188
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 84.5,
+        "y": 316.0,
+        "width": 146,
+        "height": 137
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 85.5,
+        "y": 534.0,
+        "width": 151,
+        "height": 128
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 115.5,
+        "y": 426.0,
+        "width": 69,
+        "height": 66
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 481.5,
+        "y": 426.0,
+        "width": 310,
+        "height": 125
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 230.5,
+        "y": 664.0,
+        "width": 51,
+        "height": 50
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 538.5,
+        "y": 423.0,
+        "width": 683,
+        "height": 418
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 826.5,
+        "y": 705.0,
+        "width": 120,
+        "height": 124
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 603.5,
+        "y": 67.0,
+        "width": 516,
+        "height": 114
+      }
+    },
+    {
+      "label": "wardrobe",
+      "coordinates": {
+        "x": 164.5,
+        "y": 994.0,
+        "width": 301,
+        "height": 73
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 683.5,
+        "y": 707.0,
+        "width": 149,
+        "height": 147
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 867.5,
+        "y": 249.0,
+        "width": 148,
+        "height": 152
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 177.5,
+        "y": 22.0,
+        "width": 321,
+        "height": 22
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 909.5,
+        "y": 20.0,
+        "width": 88,
+        "height": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+[
+  {
+    "room_dimensions": [
+      4.05,
+      5.24,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 2.38,
+      "width": 0.84,
+      "height": 0.72
+    },
+    "position": {
+      "x": 3.43,
+      "y": 2.94,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 2.85,
+      "width": 2.16,
+      "height": 0.02
+    },
+    "position": {
+      "x": 1.75,
+      "y": 2.87,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "bench_1",
+    "size_in_meters": {
+      "length": 0.67,
+      "width": 0.41,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.63,
+      "y": 2.25,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "bench_2",
+    "size_in_meters": {
+      "length": 0.69,
+      "width": 0.43,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.63,
+      "y": 3.28,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.14,
+      "width": 1.08,
+      "height": 0.41
+    },
+    "position": {
+      "x": 1.82,
+      "y": 2.84,
+      "z": 0.205
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_1",
+    "size_in_meters": {
+      "length": 0.84,
+      "width": 0.63,
+      "height": 0.81
+    },
+    "position": {
+      "x": 1.29,
+      "y": 4.61,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_2",
+    "size_in_meters": {
+      "length": 0.83,
+      "width": 0.51,
+      "height": 0.81
+    },
+    "position": {
+      "x": 2.18,
+      "y": 4.66,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "floor plant_1",
+    "size_in_meters": {
+      "length": 0.71,
+      "width": 0.69,
+      "height": 0.72
+    },
+    "position": {
+      "x": 3.42,
+      "y": 0.89,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 1.91,
+      "width": 0.75,
+      "height": 0.72
+    },
+    "position": {
+      "x": 1.67,
+      "y": 0.92,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 0.96,
+      "width": 0.07,
+      "height": 1.26
+    },
+    "position": {
+      "x": 0.66,
+      "y": 0.1,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_2",
+    "size_in_meters": {
+      "length": 1.04,
+      "width": 0.08,
+      "height": 1.26
+    },
+    "position": {
+      "x": 1.97,
+      "y": 0.1,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_3",
+    "size_in_meters": {
+      "length": 1.05,
+      "width": 0.08,
+      "height": 1.26
+    },
+    "position": {
+      "x": 3.33,
+      "y": 0.1,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  }
+]

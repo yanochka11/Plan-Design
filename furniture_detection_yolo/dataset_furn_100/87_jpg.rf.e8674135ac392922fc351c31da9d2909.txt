@@ -1,0 +1,122 @@
+{
+  "image": "87_jpg.rf.e8674135ac392922fc351c31da9d2909.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 677,
+        "y": 299,
+        "width": 540,
+        "height": 223
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 558,
+        "y": 535,
+        "width": 64,
+        "height": 74
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 691,
+        "y": 528,
+        "width": 197,
+        "height": 135
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 664,
+        "y": 562,
+        "width": 436,
+        "height": 348
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 170,
+        "y": 646,
+        "width": 194,
+        "height": 334
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 310,
+        "y": 578,
+        "width": 79,
+        "height": 118
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 310,
+        "y": 715,
+        "width": 82,
+        "height": 120
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 38,
+        "y": 579,
+        "width": 73,
+        "height": 115
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 37,
+        "y": 719,
+        "width": 73,
+        "height": 124
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 698,
+        "y": 815,
+        "width": 604,
+        "height": 69
+      }
+    },
+    {
+      "label": "sideboard",
+      "coordinates": {
+        "x": 137,
+        "y": 837,
+        "width": 274,
+        "height": 30
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 877,
+        "y": 679,
+        "width": 165,
+        "height": 156
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1015,
+        "y": 646,
+        "width": 14,
+        "height": 225
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "image": "103_jpg.rf.d78755fd1913cc53157b66c18133157f.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 333.0,
+        "y": 188.0,
+        "width": 468,
+        "height": 194
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 294.0,
+        "y": 425.0,
+        "width": 361,
+        "height": 260
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 70.0,
+        "y": 391.0,
+        "width": 120,
+        "height": 151
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 276.0,
+        "y": 438.0,
+        "width": 121,
+        "height": 120
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 537.0,
+        "y": 505.0,
+        "width": 301,
+        "height": 155
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 54.0,
+        "y": 164.0,
+        "width": 77,
+        "height": 91
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 662.0,
+        "y": 179.0,
+        "width": 178,
+        "height": 145
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 354.0,
+        "y": 19.0,
+        "width": 378,
+        "height": 18
+      }
+    }
+  ]
+}

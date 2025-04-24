@@ -1,0 +1,131 @@
+{
+  "image": "41_jpg.rf.9dcce06ef11254471e8afa9efd4da0fd.jpg",
+  "annotations": [
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 722,
+        "y": 652,
+        "width": 212,
+        "height": 210
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 115,
+        "y": 626,
+        "width": 196,
+        "height": 556
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 112,
+        "y": 241,
+        "width": 193,
+        "height": 209
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 295,
+        "y": 494,
+        "width": 90,
+        "height": 214
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 499,
+        "y": 536,
+        "width": 195,
+        "height": 245
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 755,
+        "y": 508,
+        "width": 132,
+        "height": 80
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 794,
+        "y": 783,
+        "width": 51,
+        "height": 43
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 694,
+        "y": 808,
+        "width": 69,
+        "height": 69
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 545,
+        "y": 818,
+        "width": 87,
+        "height": 122
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 375,
+        "y": 820,
+        "width": 92,
+        "height": 117
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 460,
+        "y": 775,
+        "width": 62,
+        "height": 67
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 533,
+        "y": 511,
+        "width": 421,
+        "height": 550
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 755,
+        "y": 328,
+        "width": 133,
+        "height": 276
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 558,
+        "y": 263,
+        "width": 253,
+        "height": 131
+      }
+    }
+  ]
+}

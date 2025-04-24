@@ -1,0 +1,6 @@
+train: /home/jovyan/shares/SR008.fs2/iana_kulichenko/Experiments/detection/furn-living-7/train
+val: /home/jovyan/shares/SR008.fs2/iana_kulichenko/Experiments/detection/furn-living-7/valid
+test: /home/jovyan/shares/SR008.fs2/iana_kulichenko/Experiments/detection/furn-living-7/test
+
+nc: 26
+names: ['TV stand', 'bar counter', 'bench', 'bookshelf', 'cabinet', 'chair', 'chair-bed', 'coffee table', 'desk', 'dining table', 'fireplace', 'floor lamp', 'floor plant', 'floor vase', 'kitchen island', 'modular kitchen', 'ottoman', 'rocking chair', 'rug', 'shelves', 'side table', 'sideboard', 'sofa', 'stool', 'wardrobe', 'window']

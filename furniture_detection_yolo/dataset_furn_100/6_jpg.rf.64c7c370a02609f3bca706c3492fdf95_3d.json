@@ -1,0 +1,135 @@
+[
+  {
+    "room_dimensions": [
+      5.48,
+      4.81,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 1.91,
+      "width": 1.0,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.83,
+      "y": 3.34,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 1.27,
+      "width": 0.31,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.25,
+      "y": 1.27,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.65,
+      "width": 1.27,
+      "height": 0.41
+    },
+    "position": {
+      "x": 2.95,
+      "y": 2.92,
+      "z": 0.205
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.3,
+      "width": 0.29,
+      "height": 1.44
+    },
+    "position": {
+      "x": 3.87,
+      "y": 1.05,
+      "z": 0.72
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "ottoman_1",
+    "size_in_meters": {
+      "length": 0.4,
+      "width": 0.4,
+      "height": 0.36
+    },
+    "position": {
+      "x": 4.73,
+      "y": 2.62,
+      "z": 0.18
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 0.96,
+      "width": 0.92,
+      "height": 0.9
+    },
+    "position": {
+      "x": 4.81,
+      "y": 1.45,
+      "z": 0.45
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "armchair_2",
+    "size_in_meters": {
+      "length": 1.0,
+      "width": 0.97,
+      "height": 0.9
+    },
+    "position": {
+      "x": 4.68,
+      "y": 4.11,
+      "z": 0.45
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair-bed_1",
+    "size_in_meters": {
+      "length": 1.59,
+      "width": 0.75,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.96,
+      "y": 1.07,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 1.53,
+      "width": 0.96,
+      "height": 0.72
+    },
+    "position": {
+      "x": 2.43,
+      "y": 0.68,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  }
+]

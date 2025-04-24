@@ -1,0 +1,113 @@
+{
+  "image": "106_jpg.rf.325a03a51fce48bc9bb1a7e17054fc49.jpg",
+  "annotations": [
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 691.5,
+        "y": 264.0,
+        "width": 104,
+        "height": 153
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 890.5,
+        "y": 284.0,
+        "width": 73,
+        "height": 229
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 63.5,
+        "y": 116.0,
+        "width": 87,
+        "height": 90
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 676.5,
+        "y": 310.0,
+        "width": 303,
+        "height": 353
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 499.5,
+        "y": 315.0,
+        "width": 202,
+        "height": 448
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 199.5,
+        "y": 325.0,
+        "width": 110,
+        "height": 115
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 113.5,
+        "y": 242.0,
+        "width": 56,
+        "height": 50
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 284.5,
+        "y": 240.0,
+        "width": 58,
+        "height": 51
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 285.5,
+        "y": 413.0,
+        "width": 59,
+        "height": 54
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 111.5,
+        "y": 412.0,
+        "width": 58,
+        "height": 55
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 137.5,
+        "y": 19.0,
+        "width": 255,
+        "height": 18
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 651.5,
+        "y": 19.0,
+        "width": 159,
+        "height": 17
+      }
+    }
+  ]
+}

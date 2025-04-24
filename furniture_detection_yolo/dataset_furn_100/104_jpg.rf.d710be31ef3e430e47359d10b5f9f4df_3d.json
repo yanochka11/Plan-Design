@@ -1,0 +1,191 @@
+[
+  {
+    "room_dimensions": [
+      6.31,
+      5.78,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.25,
+      "width": 0.24,
+      "height": 1.44
+    },
+    "position": {
+      "x": 4.06,
+      "y": 1.7,
+      "z": 0.72
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 1.5,
+      "width": 1.48,
+      "height": 0.02
+    },
+    "position": {
+      "x": 2.22,
+      "y": 3.34,
+      "z": 0.01
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor plant_1",
+    "size_in_meters": {
+      "length": 0.51,
+      "width": 0.45,
+      "height": 0.72
+    },
+    "position": {
+      "x": 4.5,
+      "y": 5.23,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 1.89,
+      "width": 0.26,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.24,
+      "y": 2.51,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "bookshelf_1",
+    "size_in_meters": {
+      "length": 1.84,
+      "width": 0.49,
+      "height": 1.8
+    },
+    "position": {
+      "x": 5.04,
+      "y": 0.39,
+      "z": 0.9
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 0.93,
+      "width": 0.57,
+      "height": 0.41
+    },
+    "position": {
+      "x": 2.08,
+      "y": 3.22,
+      "z": 0.205
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 0.65,
+      "width": 0.61,
+      "height": 0.9
+    },
+    "position": {
+      "x": 3.97,
+      "y": 2.69,
+      "z": 0.45
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "armchair_2",
+    "size_in_meters": {
+      "length": 0.65,
+      "width": 0.62,
+      "height": 0.9
+    },
+    "position": {
+      "x": 3.93,
+      "y": 4.1,
+      "z": 0.45
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 2.21,
+      "width": 0.79,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.95,
+      "y": 2.76,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "ottoman_1",
+    "size_in_meters": {
+      "length": 0.72,
+      "width": 0.67,
+      "height": 0.36
+    },
+    "position": {
+      "x": 1.91,
+      "y": 1.88,
+      "z": 0.18
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 1.49,
+      "width": 0.15,
+      "height": 1.26
+    },
+    "position": {
+      "x": 6.12,
+      "y": 1.69,
+      "z": 0.63
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_2",
+    "size_in_meters": {
+      "length": 1.59,
+      "width": 0.17,
+      "height": 1.26
+    },
+    "position": {
+      "x": 6.12,
+      "y": 4.68,
+      "z": 0.63
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_3",
+    "size_in_meters": {
+      "length": 0.73,
+      "width": 0.16,
+      "height": 1.26
+    },
+    "position": {
+      "x": 6.12,
+      "y": 3.14,
+      "z": 0.63
+    },
+    "rotation_z": 90
+  }
+]

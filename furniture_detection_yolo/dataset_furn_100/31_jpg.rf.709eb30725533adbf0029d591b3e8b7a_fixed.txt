@@ -1,0 +1,77 @@
+{
+  "image": "31_jpg.rf.709eb30725533adbf0029d591b3e8b7a.jpg",
+  "annotations": [
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 105.5,
+        "y": 160.0,
+        "width": 191,
+        "height": 185
+      }
+    },
+    {
+      "label": "floor vase",
+      "coordinates": {
+        "x": 591.5,
+        "y": 96.0,
+        "width": 129,
+        "height": 172
+      }
+    },
+    {
+      "label": "floor vase",
+      "coordinates": {
+        "x": 483.5,
+        "y": 215.0,
+        "width": 67,
+        "height": 72
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 291.5,
+        "y": 484.0,
+        "width": 148,
+        "height": 349
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 435.5,
+        "y": 589.0,
+        "width": 557,
+        "height": 656
+      }
+    },
+    {
+      "label": "floor vase",
+      "coordinates": {
+        "x": 460.5,
+        "y": 93.0,
+        "width": 103,
+        "height": 132
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 645.5,
+        "y": 593.0,
+        "width": 207,
+        "height": 748
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 328.5,
+        "y": 861.0,
+        "width": 416,
+        "height": 217
+      }
+    }
+  ]
+}

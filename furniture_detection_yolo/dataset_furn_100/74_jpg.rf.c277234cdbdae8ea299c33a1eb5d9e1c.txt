@@ -1,0 +1,149 @@
+{
+  "image": "74_jpg.rf.c277234cdbdae8ea299c33a1eb5d9e1c.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 571,
+        "y": 392,
+        "width": 191,
+        "height": 95
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 243,
+        "y": 543,
+        "width": 106,
+        "height": 201
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 248,
+        "y": 429,
+        "width": 56,
+        "height": 22
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 315,
+        "y": 514,
+        "width": 29,
+        "height": 40
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 316,
+        "y": 590,
+        "width": 30,
+        "height": 46
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 176,
+        "y": 587,
+        "width": 25,
+        "height": 43
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 177,
+        "y": 511,
+        "width": 21,
+        "height": 46
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 420,
+        "y": 368,
+        "width": 24,
+        "height": 23
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 577,
+        "y": 482,
+        "width": 352,
+        "height": 199
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 569,
+        "y": 512,
+        "width": 132,
+        "height": 72
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 720,
+        "y": 364,
+        "width": 69,
+        "height": 58
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 780,
+        "y": 366,
+        "width": 31,
+        "height": 33
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 506,
+        "y": 687,
+        "width": 263,
+        "height": 61
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 762,
+        "y": 686,
+        "width": 240,
+        "height": 61
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 895,
+        "y": 465,
+        "width": 19,
+        "height": 110
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 895,
+        "y": 579,
+        "width": 18,
+        "height": 112
+      }
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "image": "46_jpg.rf.5bb6d93cf15f78a4dafcf46cf682343f.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 329.5,
+        "y": 324.0,
+        "width": 136,
+        "height": 341
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 161.5,
+        "y": 171.0,
+        "width": 155,
+        "height": 91
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 562.5,
+        "y": 291.0,
+        "width": 95,
+        "height": 213
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 560.5,
+        "y": 153.0,
+        "width": 54,
+        "height": 50
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 639.5,
+        "y": 218.0,
+        "width": 46,
+        "height": 53
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 638.5,
+        "y": 284.0,
+        "width": 45,
+        "height": 53
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 639.5,
+        "y": 354.0,
+        "width": 47,
+        "height": 53
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 483.5,
+        "y": 217.0,
+        "width": 48,
+        "height": 54
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 486.5,
+        "y": 285.0,
+        "width": 48,
+        "height": 54
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 486.5,
+        "y": 353.0,
+        "width": 48,
+        "height": 55
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 562.5,
+        "y": 425.0,
+        "width": 52,
+        "height": 47
+      }
+    },
+    {
+      "label": "kitchen island",
+      "coordinates": {
+        "x": 754.5,
+        "y": 290.0,
+        "width": 91,
+        "height": 210
+      }
+    },
+    {
+      "label": "modular kitchen",
+      "coordinates": {
+        "x": 720.5,
+        "y": 562.0,
+        "width": 412,
+        "height": 104
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 32.5,
+        "y": 369.0,
+        "width": 45,
+        "height": 409
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 163.5,
+        "y": 308.0,
+        "width": 101,
+        "height": 102
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 162.5,
+        "y": 395.0,
+        "width": 103,
+        "height": 52
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 286.5,
+        "y": 125.0,
+        "width": 45,
+        "height": 45
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 219.5,
+        "y": 337.0,
+        "width": 295,
+        "height": 360
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 76.5,
+        "y": 18.0,
+        "width": 120,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 203.5,
+        "y": 18.0,
+        "width": 129,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 326.5,
+        "y": 18.0,
+        "width": 112,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 577.5,
+        "y": 18.0,
+        "width": 119,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 701.5,
+        "y": 18.0,
+        "width": 123,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 824.5,
+        "y": 18.0,
+        "width": 117,
+        "height": 16
+      }
+    }
+  ]
+}

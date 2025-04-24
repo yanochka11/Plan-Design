@@ -1,0 +1,239 @@
+{
+  "image": "8_jpg.rf.fbce60c9e5e20c5130c23a90315d3bb4.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 595,
+        "y": 455,
+        "width": 134,
+        "height": 303
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 282,
+        "y": 497,
+        "width": 131,
+        "height": 305
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 394,
+        "y": 404,
+        "width": 64,
+        "height": 63
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 394,
+        "y": 491,
+        "width": 65,
+        "height": 66
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 394,
+        "y": 577,
+        "width": 65,
+        "height": 62
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 175,
+        "y": 404,
+        "width": 75,
+        "height": 64
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 175,
+        "y": 492,
+        "width": 77,
+        "height": 57
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 175,
+        "y": 576,
+        "width": 78,
+        "height": 63
+      }
+    },
+    {
+      "label": "shelves",
+      "coordinates": {
+        "x": 214,
+        "y": 203,
+        "width": 232,
+        "height": 52
+      }
+    },
+    {
+      "label": "bar counter",
+      "coordinates": {
+        "x": 752,
+        "y": 824,
+        "width": 385,
+        "height": 124
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 668,
+        "y": 722,
+        "width": 58,
+        "height": 62
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 752,
+        "y": 721,
+        "width": 58,
+        "height": 58
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 844,
+        "y": 720,
+        "width": 55,
+        "height": 56
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 974,
+        "y": 837,
+        "width": 52,
+        "height": 62
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 747,
+        "y": 454,
+        "width": 122,
+        "height": 145
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 751,
+        "y": 456,
+        "width": 335,
+        "height": 316
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 891,
+        "y": 366,
+        "width": 150,
+        "height": 149
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 8,
+        "y": 351,
+        "width": 14,
+        "height": 133
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 8,
+        "y": 491,
+        "width": 15,
+        "height": 141
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 9,
+        "y": 633,
+        "width": 15,
+        "height": 138
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 9,
+        "y": 783,
+        "width": 14,
+        "height": 154
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 981,
+        "y": 146,
+        "width": 85,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 867,
+        "y": 146,
+        "width": 138,
+        "height": 15
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 730,
+        "y": 146,
+        "width": 130,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 610,
+        "y": 146,
+        "width": 104,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 500,
+        "y": 146,
+        "width": 113,
+        "height": 15
+      }
+    }
+  ]
+}

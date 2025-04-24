@@ -1,0 +1,158 @@
+{
+  "image": "62_jpg.rf.f02e8ddeb0c0a0781a1a4a9a29ec99cb.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 727.5,
+        "y": 374.0,
+        "width": 154,
+        "height": 250
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 103.5,
+        "y": 373.0,
+        "width": 147,
+        "height": 243
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 518.5,
+        "y": 378.0,
+        "width": 176,
+        "height": 203
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 349.5,
+        "y": 641.0,
+        "width": 131,
+        "height": 142
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 110.5,
+        "y": 638.0,
+        "width": 201,
+        "height": 191
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 661.5,
+        "y": 677.0,
+        "width": 60,
+        "height": 53
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 84.5,
+        "y": 124.0,
+        "width": 44,
+        "height": 39
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 434.5,
+        "y": 112.0,
+        "width": 40,
+        "height": 42
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 391.5,
+        "y": 111.0,
+        "width": 37,
+        "height": 41
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 722.5,
+        "y": 167.0,
+        "width": 115,
+        "height": 112
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 345.5,
+        "y": 377.0,
+        "width": 108,
+        "height": 168
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 104.5,
+        "y": 197.0,
+        "width": 98,
+        "height": 96
+      }
+    },
+    {
+      "label": "shelves",
+      "coordinates": {
+        "x": 838.5,
+        "y": 376.0,
+        "width": 60,
+        "height": 293
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 253.5,
+        "y": 19.0,
+        "width": 157,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 552.5,
+        "y": 18.0,
+        "width": 123,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 705.5,
+        "y": 18.0,
+        "width": 177,
+        "height": 16
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 564.5,
+        "y": 780.0,
+        "width": 150,
+        "height": 18
+      }
+    }
+  ]
+}

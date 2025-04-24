@@ -1,0 +1,176 @@
+{
+  "image": "81_jpg.rf.919783b4248f876ea6c0983e3adc9323.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 181,
+        "y": 644,
+        "width": 155,
+        "height": 84
+      }
+    },
+    {
+      "label": "modular kitchen",
+      "coordinates": {
+        "x": 928,
+        "y": 547,
+        "width": 112,
+        "height": 343
+      }
+    },
+    {
+      "label": "bar counter",
+      "coordinates": {
+        "x": 740,
+        "y": 598,
+        "width": 43,
+        "height": 184
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 702,
+        "y": 530,
+        "width": 27,
+        "height": 38
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 702,
+        "y": 576,
+        "width": 27,
+        "height": 38
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 777,
+        "y": 531,
+        "width": 24,
+        "height": 39
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 776,
+        "y": 579,
+        "width": 25,
+        "height": 41
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 150,
+        "y": 349,
+        "width": 81,
+        "height": 30
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 151,
+        "y": 582,
+        "width": 80,
+        "height": 37
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 285,
+        "y": 638,
+        "width": 42,
+        "height": 84
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 293,
+        "y": 468,
+        "width": 165,
+        "height": 229
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 150,
+        "y": 464,
+        "width": 91,
+        "height": 192
+      }
+    },
+    {
+      "label": "bench",
+      "coordinates": {
+        "x": 752,
+        "y": 352,
+        "width": 91,
+        "height": 44
+      }
+    },
+    {
+      "label": "bench",
+      "coordinates": {
+        "x": 654,
+        "y": 352,
+        "width": 95,
+        "height": 44
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 158,
+        "y": 315,
+        "width": 92,
+        "height": 10
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 316,
+        "y": 315,
+        "width": 93,
+        "height": 9
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 489,
+        "y": 316,
+        "width": 91,
+        "height": 11
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 665,
+        "y": 315,
+        "width": 89,
+        "height": 11
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 879,
+        "y": 315,
+        "width": 97,
+        "height": 9
+      }
+    }
+  ]
+}

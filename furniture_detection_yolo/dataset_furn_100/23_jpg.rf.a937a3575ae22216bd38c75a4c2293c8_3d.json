@@ -1,0 +1,135 @@
+[
+  {
+    "room_dimensions": [
+      4.48,
+      5.26,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.27,
+      "width": 0.7,
+      "height": 0.41
+    },
+    "position": {
+      "x": 2.47,
+      "y": 3.02,
+      "z": 0.205
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 0.78,
+      "width": 0.68,
+      "height": 0.9
+    },
+    "position": {
+      "x": 3.9,
+      "y": 3.16,
+      "z": 0.45
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "armchair_2",
+    "size_in_meters": {
+      "length": 0.79,
+      "width": 0.69,
+      "height": 0.9
+    },
+    "position": {
+      "x": 3.92,
+      "y": 4.74,
+      "z": 0.45
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.41,
+      "width": 0.39,
+      "height": 0.45
+    },
+    "position": {
+      "x": 3.79,
+      "y": 3.97,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.19,
+      "width": 0.16,
+      "height": 1.44
+    },
+    "position": {
+      "x": 4.18,
+      "y": 3.86,
+      "z": 0.72
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 3.83,
+      "width": 2.85,
+      "height": 0.02
+    },
+    "position": {
+      "x": 2.1,
+      "y": 2.76,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 2.73,
+      "width": 1.12,
+      "height": 0.72
+    },
+    "position": {
+      "x": 1.81,
+      "y": 0.77,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 1.68,
+      "width": 1.08,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.76,
+      "y": 2.59,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "ottoman_1",
+    "size_in_meters": {
+      "length": 0.94,
+      "width": 0.55,
+      "height": 0.36
+    },
+    "position": {
+      "x": 0.82,
+      "y": 4.06,
+      "z": 0.18
+    },
+    "rotation_z": 0
+  }
+]

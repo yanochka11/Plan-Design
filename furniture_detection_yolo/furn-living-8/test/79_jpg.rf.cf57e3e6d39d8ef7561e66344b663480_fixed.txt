@@ -1,0 +1,176 @@
+{
+  "image": "79_jpg.rf.cf57e3e6d39d8ef7561e66344b663480.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 677.0,
+        "y": 126.5,
+        "width": 367,
+        "height": 170
+      }
+    },
+    {
+      "label": "kitchen island",
+      "coordinates": {
+        "x": 302.0,
+        "y": 164.5,
+        "width": 136,
+        "height": 298
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 301.0,
+        "y": 431.5,
+        "width": 122,
+        "height": 227
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 707.0,
+        "y": 357.5,
+        "width": 111,
+        "height": 117
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 553.0,
+        "y": 197.5,
+        "width": 316,
+        "height": 286
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 765.0,
+        "y": 326.5,
+        "width": 267,
+        "height": 188
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 913.0,
+        "y": 105.5,
+        "width": 86,
+        "height": 76
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 913.0,
+        "y": 190.5,
+        "width": 88,
+        "height": 79
+      }
+    },
+    {
+      "label": "modular kitchen",
+      "coordinates": {
+        "x": 64.0,
+        "y": 297.5,
+        "width": 108,
+        "height": 575
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 382.0,
+        "y": 387.5,
+        "width": 28,
+        "height": 65
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 381.0,
+        "y": 460.5,
+        "width": 29,
+        "height": 75
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 219.0,
+        "y": 467.5,
+        "width": 39,
+        "height": 73
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 429.0,
+        "y": 102.5,
+        "width": 102,
+        "height": 102
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 411.0,
+        "y": 199.5,
+        "width": 74,
+        "height": 83
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 471.0,
+        "y": 186.5,
+        "width": 36,
+        "height": 54
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 218.0,
+        "y": 388.5,
+        "width": 44,
+        "height": 68
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 762.0,
+        "y": 549.5,
+        "width": 449,
+        "height": 69
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1026.0,
+        "y": 218.5,
+        "width": 15,
+        "height": 202
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1026.0,
+        "y": 428.5,
+        "width": 15,
+        "height": 211
+      }
+    }
+  ]
+}

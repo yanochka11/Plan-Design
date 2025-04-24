@@ -1,0 +1,86 @@
+{
+  "image": "88_jpg.rf.30c26cfdfc5175807c6e81f6a970abc9.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 154.5,
+        "y": 360.0,
+        "width": 289,
+        "height": 510
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 519.5,
+        "y": 103.0,
+        "width": 138,
+        "height": 139
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 421.5,
+        "y": 422.0,
+        "width": 140,
+        "height": 139
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 418.5,
+        "y": 287.0,
+        "width": 94,
+        "height": 94
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 172.5,
+        "y": 66.0,
+        "width": 93,
+        "height": 70
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 150.5,
+        "y": 653.0,
+        "width": 84,
+        "height": 72
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 435.5,
+        "y": 389.0,
+        "width": 375,
+        "height": 381
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 753.5,
+        "y": 350.0,
+        "width": 147,
+        "height": 668
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 377.5,
+        "y": 15.0,
+        "width": 592,
+        "height": 10
+      }
+    }
+  ]
+}

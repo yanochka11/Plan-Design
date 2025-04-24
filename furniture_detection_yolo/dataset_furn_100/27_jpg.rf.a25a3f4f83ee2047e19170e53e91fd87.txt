@@ -1,0 +1,149 @@
+{
+  "image": "27_jpg.rf.a25a3f4f83ee2047e19170e53e91fd87.jpg",
+  "annotations": [
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 859,
+        "y": 531,
+        "width": 147,
+        "height": 394
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 589,
+        "y": 194,
+        "width": 225,
+        "height": 256
+      }
+    },
+    {
+      "label": "fireplace",
+      "coordinates": {
+        "x": 860,
+        "y": 847,
+        "width": 145,
+        "height": 227
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 784,
+        "y": 149,
+        "width": 77,
+        "height": 77
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 205,
+        "y": 152,
+        "width": 170,
+        "height": 74
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 507,
+        "y": 379,
+        "width": 406,
+        "height": 508
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 355,
+        "y": 163,
+        "width": 81,
+        "height": 66
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 336,
+        "y": 828,
+        "width": 474,
+        "height": 389
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 575,
+        "y": 480,
+        "width": 188,
+        "height": 218
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 179,
+        "y": 926,
+        "width": 151,
+        "height": 166
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 365,
+        "y": 851,
+        "width": 140,
+        "height": 215
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 277,
+        "y": 626,
+        "width": 328,
+        "height": 221
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 244,
+        "y": 357,
+        "width": 261,
+        "height": 312
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 502,
+        "y": 13,
+        "width": 278,
+        "height": 26
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 762,
+        "y": 13,
+        "width": 232,
+        "height": 26
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 920,
+        "y": 176,
+        "width": 25,
+        "height": 298
+      }
+    }
+  ]
+}

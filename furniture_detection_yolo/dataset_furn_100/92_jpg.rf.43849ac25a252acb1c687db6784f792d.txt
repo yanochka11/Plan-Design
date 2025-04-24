@@ -1,0 +1,59 @@
+{
+  "image": "92_jpg.rf.43849ac25a252acb1c687db6784f792d.jpg",
+  "annotations": [
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 423,
+        "y": 581,
+        "width": 149,
+        "height": 151
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 437,
+        "y": 526,
+        "width": 357,
+        "height": 437
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 890,
+        "y": 518,
+        "width": 228,
+        "height": 505
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 316,
+        "y": 339,
+        "width": 479,
+        "height": 205
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 195,
+        "y": 619,
+        "width": 233,
+        "height": 346
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 475,
+        "y": 178,
+        "width": 652,
+        "height": 14
+      }
+    }
+  ]
+}

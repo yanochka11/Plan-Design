@@ -1,0 +1,131 @@
+{
+  "image": "97_jpg.rf.72a7de5a64f821775f62785575533d5a.jpg",
+  "annotations": [
+    {
+      "label": "sideboard",
+      "coordinates": {
+        "x": 490.5,
+        "y": 92.5,
+        "width": 155,
+        "height": 83
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 567.5,
+        "y": 371.5,
+        "width": 99,
+        "height": 222
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 78.5,
+        "y": 382.5,
+        "width": 88,
+        "height": 126
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 304.5,
+        "y": 87.5,
+        "width": 80,
+        "height": 59
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 78.5,
+        "y": 486.5,
+        "width": 65,
+        "height": 58
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 561.5,
+        "y": 378.5,
+        "width": 278,
+        "height": 371
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 77.5,
+        "y": 382.5,
+        "width": 86,
+        "height": 121
+      }
+    },
+    {
+      "label": "rocking chair",
+      "coordinates": {
+        "x": 152.5,
+        "y": 158.5,
+        "width": 179,
+        "height": 168
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 810.5,
+        "y": 280.5,
+        "width": 187,
+        "height": 269
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 792.5,
+        "y": 514.5,
+        "width": 224,
+        "height": 190
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 331.5,
+        "y": 272.5,
+        "width": 165,
+        "height": 138
+      }
+    },
+    {
+      "label": "rocking chair",
+      "coordinates": {
+        "x": 317.5,
+        "y": 565.5,
+        "width": 186,
+        "height": 182
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 68.5,
+        "y": 16.5,
+        "width": 117,
+        "height": 13
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 209.5,
+        "y": 16.5,
+        "width": 134,
+        "height": 12
+      }
+    }
+  ]
+}

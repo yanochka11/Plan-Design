@@ -1,0 +1,122 @@
+{
+  "image": "35_jpg.rf.51e951d9694314b3d3bc7fb0036b135a.jpg",
+  "annotations": [
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 550,
+        "y": 489,
+        "width": 121,
+        "height": 210
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 548,
+        "y": 659,
+        "width": 146,
+        "height": 115
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 490,
+        "y": 893,
+        "width": 153,
+        "height": 186
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 697,
+        "y": 890,
+        "width": 167,
+        "height": 189
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 260,
+        "y": 887,
+        "width": 72,
+        "height": 72
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 548,
+        "y": 564,
+        "width": 485,
+        "height": 668
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 902,
+        "y": 364,
+        "width": 57,
+        "height": 82
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 646,
+        "y": 210,
+        "width": 108,
+        "height": 183
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 239,
+        "y": 471,
+        "width": 199,
+        "height": 741
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 463,
+        "y": 203,
+        "width": 244,
+        "height": 205
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 256,
+        "y": 17,
+        "width": 315,
+        "height": 26
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 618,
+        "y": 16,
+        "width": 397,
+        "height": 28
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 875,
+        "y": 16,
+        "width": 108,
+        "height": 31
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "image": "21_jpg.rf.dc87fff470b0232a34941b6b8ed09cab.jpg",
+  "annotations": [
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 542,
+        "y": 515,
+        "width": 212,
+        "height": 149
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 267,
+        "y": 560,
+        "width": 162,
+        "height": 154
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 571,
+        "y": 742,
+        "width": 255,
+        "height": 60
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 487,
+        "y": 326,
+        "width": 457,
+        "height": 175
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 802,
+        "y": 442,
+        "width": 165,
+        "height": 410
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1011,
+        "y": 692,
+        "width": 21,
+        "height": 309
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1011,
+        "y": 366,
+        "width": 21,
+        "height": 331
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 397,
+        "y": 867,
+        "width": 239,
+        "height": 21
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 653,
+        "y": 867,
+        "width": 261,
+        "height": 22
+      }
+    }
+  ]
+}

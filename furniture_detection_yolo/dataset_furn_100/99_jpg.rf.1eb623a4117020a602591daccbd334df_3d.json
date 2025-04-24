@@ -1,0 +1,149 @@
+[
+  {
+    "room_dimensions": [
+      5.73,
+      3.2,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 2.52,
+      "width": 0.87,
+      "height": 0.72
+    },
+    "position": {
+      "x": 2.9,
+      "y": 0.63,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 1.44,
+      "width": 0.98,
+      "height": 0.72
+    },
+    "position": {
+      "x": 4.05,
+      "y": 2.14,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.59,
+      "width": 0.57,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.79,
+      "y": 0.43,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 0.97,
+      "width": 0.67,
+      "height": 0.41
+    },
+    "position": {
+      "x": 2.5,
+      "y": 2.11,
+      "z": 0.205
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 1.02,
+      "width": 1.02,
+      "height": 0.9
+    },
+    "position": {
+      "x": 0.71,
+      "y": 2.03,
+      "z": 0.45
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 2.34,
+      "width": 1.55,
+      "height": 0.02
+    },
+    "position": {
+      "x": 2.14,
+      "y": 2.15,
+      "z": 0.01
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "side table_2",
+    "size_in_meters": {
+      "length": 0.44,
+      "width": 0.35,
+      "height": 0.45
+    },
+    "position": {
+      "x": 4.77,
+      "y": 0.63,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "floor vase_1",
+    "size_in_meters": {
+      "length": 0.21,
+      "width": 0.21,
+      "height": 0.63
+    },
+    "position": {
+      "x": 0.23,
+      "y": 0.62,
+      "z": 0.315
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "floor vase_2",
+    "size_in_meters": {
+      "length": 0.19,
+      "width": 0.14,
+      "height": 0.63
+    },
+    "position": {
+      "x": 0.24,
+      "y": 0.31,
+      "z": 0.315
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 1.58,
+      "width": 0.08,
+      "height": 1.26
+    },
+    "position": {
+      "x": 5.62,
+      "y": 1.9,
+      "z": 0.63
+    },
+    "rotation_z": 90
+  }
+]

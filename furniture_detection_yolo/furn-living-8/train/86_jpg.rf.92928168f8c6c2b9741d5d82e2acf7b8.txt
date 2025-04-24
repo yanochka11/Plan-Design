@@ -1,0 +1,149 @@
+{
+  "image": "86_jpg.rf.92928168f8c6c2b9741d5d82e2acf7b8.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 708,
+        "y": 754,
+        "width": 398,
+        "height": 168
+      }
+    },
+    {
+      "label": "bar counter",
+      "coordinates": {
+        "x": 226,
+        "y": 517,
+        "width": 148,
+        "height": 592
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 356,
+        "y": 297,
+        "width": 90,
+        "height": 107
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 350,
+        "y": 408,
+        "width": 74,
+        "height": 95
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 352,
+        "y": 511,
+        "width": 76,
+        "height": 95
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 115,
+        "y": 290,
+        "width": 74,
+        "height": 94
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 113,
+        "y": 399,
+        "width": 74,
+        "height": 93
+      }
+    },
+    {
+      "label": "stool",
+      "coordinates": {
+        "x": 114,
+        "y": 510,
+        "width": 79,
+        "height": 102
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 704,
+        "y": 202,
+        "width": 491,
+        "height": 62
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 697,
+        "y": 512,
+        "width": 189,
+        "height": 157
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 458,
+        "y": 740,
+        "width": 83,
+        "height": 114
+      }
+    },
+    {
+      "label": "modular kitchen",
+      "coordinates": {
+        "x": 37,
+        "y": 487,
+        "width": 73,
+        "height": 629
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 926,
+        "y": 751,
+        "width": 33,
+        "height": 51
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 651,
+        "y": 494,
+        "width": 585,
+        "height": 442
+      }
+    },
+    {
+      "label": "bench",
+      "coordinates": {
+        "x": 451,
+        "y": 486,
+        "width": 111,
+        "height": 271
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 909,
+        "y": 335,
+        "width": 213,
+        "height": 181
+      }
+    }
+  ]
+}

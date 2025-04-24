@@ -1,0 +1,135 @@
+[
+  {
+    "room_dimensions": [
+      4.52,
+      3.78,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 2.16,
+      "width": 1.22,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.83,
+      "y": 1.94,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "ottoman_1",
+    "size_in_meters": {
+      "length": 0.59,
+      "width": 0.58,
+      "height": 0.36
+    },
+    "position": {
+      "x": 2.81,
+      "y": 0.56,
+      "z": 0.18
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 0.59,
+      "width": 0.59,
+      "height": 0.41
+    },
+    "position": {
+      "x": 2.28,
+      "y": 2.28,
+      "z": 0.205
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.4,
+      "width": 0.4,
+      "height": 0.45
+    },
+    "position": {
+      "x": 2.26,
+      "y": 1.55,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor plant_1",
+    "size_in_meters": {
+      "length": 0.39,
+      "width": 0.3,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.93,
+      "y": 0.36,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.36,
+      "width": 0.3,
+      "height": 1.44
+    },
+    "position": {
+      "x": 0.81,
+      "y": 3.53,
+      "z": 0.72
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 1.61,
+      "width": 1.59,
+      "height": 0.02
+    },
+    "position": {
+      "x": 2.35,
+      "y": 2.1,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "tv stand_1",
+    "size_in_meters": {
+      "length": 2.82,
+      "width": 0.62,
+      "height": 0.45
+    },
+    "position": {
+      "x": 4.07,
+      "y": 1.89,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 2.5,
+      "width": 0.04,
+      "height": 1.26
+    },
+    "position": {
+      "x": 2.04,
+      "y": 0.08,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  }
+]

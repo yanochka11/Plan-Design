@@ -1,0 +1,122 @@
+{
+  "image": "69_jpg.rf.f7b9cefe1c00191bc8bee5488311e7d5.jpg",
+  "annotations": [
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 423,
+        "y": 516,
+        "width": 140,
+        "height": 140
+      }
+    },
+    {
+      "label": "dining table",
+      "coordinates": {
+        "x": 771,
+        "y": 338,
+        "width": 267,
+        "height": 161
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 700,
+        "y": 219,
+        "width": 90,
+        "height": 67
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 817,
+        "y": 220,
+        "width": 91,
+        "height": 68
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 701,
+        "y": 452,
+        "width": 92,
+        "height": 63
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 818,
+        "y": 452,
+        "width": 90,
+        "height": 59
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 335,
+        "y": 189,
+        "width": 399,
+        "height": 32
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 224,
+        "y": 477,
+        "width": 176,
+        "height": 165
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 202,
+        "y": 694,
+        "width": 197,
+        "height": 257
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 457,
+        "y": 722,
+        "width": 304,
+        "height": 200
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 385,
+        "y": 522,
+        "width": 398,
+        "height": 354
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 9,
+        "y": 323,
+        "width": 18,
+        "height": 304
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 10,
+        "y": 665,
+        "width": 18,
+        "height": 372
+      }
+    }
+  ]
+}

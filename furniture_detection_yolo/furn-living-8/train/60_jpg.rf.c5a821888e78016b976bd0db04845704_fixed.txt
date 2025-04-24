@@ -1,0 +1,185 @@
+{
+  "image": "60_jpg.rf.c5a821888e78016b976bd0db04845704.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 519.0,
+        "y": 697.5,
+        "width": 457,
+        "height": 154
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 518.0,
+        "y": 100.5,
+        "width": 439,
+        "height": 170
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 887.0,
+        "y": 386.5,
+        "width": 183,
+        "height": 385
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 520.0,
+        "y": 399.5,
+        "width": 470,
+        "height": 406
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 506.0,
+        "y": 249.5,
+        "width": 184,
+        "height": 85
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 724.0,
+        "y": 383.5,
+        "width": 87,
+        "height": 182
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 507.0,
+        "y": 533.5,
+        "width": 185,
+        "height": 84
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 202.0,
+        "y": 403.5,
+        "width": 101,
+        "height": 101
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 261.0,
+        "y": 104.5,
+        "width": 70,
+        "height": 72
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 785.0,
+        "y": 107.5,
+        "width": 71,
+        "height": 73
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 1000.0,
+        "y": 395.5,
+        "width": 36,
+        "height": 310
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 252.0,
+        "y": 706.5,
+        "width": 72,
+        "height": 86
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 795.0,
+        "y": 716.5,
+        "width": 71,
+        "height": 80
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 174.0,
+        "y": 211.5,
+        "width": 174,
+        "height": 127
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 173.0,
+        "y": 581.5,
+        "width": 189,
+        "height": 139
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 18.0,
+        "y": 211.5,
+        "width": 16,
+        "height": 186
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 18.0,
+        "y": 390.5,
+        "width": 16,
+        "height": 169
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 18.0,
+        "y": 63.5,
+        "width": 15,
+        "height": 107
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 18.0,
+        "y": 566.5,
+        "width": 15,
+        "height": 175
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 18.0,
+        "y": 714.5,
+        "width": 15,
+        "height": 122
+      }
+    }
+  ]
+}

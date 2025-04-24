@@ -1,0 +1,104 @@
+{
+  "image": "93_jpg.rf.d1d2d0c7162a775470c55315fabe00c4.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 509,
+        "y": 327,
+        "width": 429,
+        "height": 191
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 859,
+        "y": 516,
+        "width": 189,
+        "height": 154
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 859,
+        "y": 706,
+        "width": 193,
+        "height": 158
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 159,
+        "y": 517,
+        "width": 198,
+        "height": 155
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 157,
+        "y": 706,
+        "width": 193,
+        "height": 157
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 514,
+        "y": 627,
+        "width": 278,
+        "height": 229
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 512,
+        "y": 610,
+        "width": 428,
+        "height": 331
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 120,
+        "y": 354,
+        "width": 84,
+        "height": 77
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 229,
+        "y": 357,
+        "width": 90,
+        "height": 87
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 785,
+        "y": 358,
+        "width": 93,
+        "height": 87
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 895,
+        "y": 354,
+        "width": 84,
+        "height": 77
+      }
+    }
+  ]
+}

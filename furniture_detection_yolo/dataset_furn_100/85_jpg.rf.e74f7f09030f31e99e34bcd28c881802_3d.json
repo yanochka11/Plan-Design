@@ -1,0 +1,121 @@
+[
+  {
+    "room_dimensions": [
+      3.65,
+      2.83,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 1.65,
+      "width": 0.67,
+      "height": 0.72
+    },
+    "position": {
+      "x": 1.79,
+      "y": 0.62,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "bench_1",
+    "size_in_meters": {
+      "length": 1.21,
+      "width": 0.46,
+      "height": 0.45
+    },
+    "position": {
+      "x": 2.99,
+      "y": 1.97,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.03,
+      "width": 0.76,
+      "height": 0.41
+    },
+    "position": {
+      "x": 1.53,
+      "y": 2.01,
+      "z": 0.205
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_1",
+    "size_in_meters": {
+      "length": 0.25,
+      "width": 0.2,
+      "height": 1.44
+    },
+    "position": {
+      "x": 0.34,
+      "y": 0.48,
+      "z": 0.72
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.36,
+      "width": 0.31,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.39,
+      "y": 0.83,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor lamp_2",
+    "size_in_meters": {
+      "length": 0.32,
+      "width": 0.3,
+      "height": 1.44
+    },
+    "position": {
+      "x": 3.06,
+      "y": 0.74,
+      "z": 0.72
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "wardrobe_1",
+    "size_in_meters": {
+      "length": 2.79,
+      "width": 0.1,
+      "height": 1.8
+    },
+    "position": {
+      "x": 1.83,
+      "y": 0.11,
+      "z": 0.9
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 2.27,
+      "width": 1.77,
+      "height": 0.02
+    },
+    "position": {
+      "x": 1.81,
+      "y": 1.66,
+      "z": 0.01
+    },
+    "rotation_z": 0
+  }
+]

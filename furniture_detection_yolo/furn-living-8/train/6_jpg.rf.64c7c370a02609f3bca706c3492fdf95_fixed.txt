@@ -1,0 +1,86 @@
+{
+  "image": "6_jpg.rf.64c7c370a02609f3bca706c3492fdf95.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 150.5,
+        "y": 606.0,
+        "width": 232,
+        "height": 442
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 45.5,
+        "y": 230.0,
+        "width": 71,
+        "height": 295
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 535.5,
+        "y": 530.0,
+        "width": 383,
+        "height": 295
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 702.5,
+        "y": 190.0,
+        "width": 67,
+        "height": 70
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 857.5,
+        "y": 476.0,
+        "width": 93,
+        "height": 93
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 873.5,
+        "y": 264.0,
+        "width": 222,
+        "height": 213
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 849.5,
+        "y": 746.0,
+        "width": 224,
+        "height": 233
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 173.5,
+        "y": 194.0,
+        "width": 174,
+        "height": 368
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 441.5,
+        "y": 123.0,
+        "width": 354,
+        "height": 223
+      }
+    }
+  ]
+}

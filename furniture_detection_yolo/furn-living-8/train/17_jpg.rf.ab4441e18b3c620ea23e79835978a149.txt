@@ -1,0 +1,113 @@
+{
+  "image": "17_jpg.rf.ab4441e18b3c620ea23e79835978a149.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 446,
+        "y": 215,
+        "width": 302,
+        "height": 159
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 211,
+        "y": 275,
+        "width": 76,
+        "height": 285
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 222,
+        "y": 488,
+        "width": 53,
+        "height": 51
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 291,
+        "y": 520,
+        "width": 70,
+        "height": 55
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 471,
+        "y": 616,
+        "width": 119,
+        "height": 118
+      }
+    },
+    {
+      "label": "fireplace",
+      "coordinates": {
+        "x": 807,
+        "y": 526,
+        "width": 99,
+        "height": 424
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 452,
+        "y": 497,
+        "width": 392,
+        "height": 607
+      }
+    },
+    {
+      "label": "cabinet",
+      "coordinates": {
+        "x": 808,
+        "y": 213,
+        "width": 100,
+        "height": 198
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 275,
+        "y": 711,
+        "width": 169,
+        "height": 320
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 516,
+        "y": 788,
+        "width": 303,
+        "height": 159
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 501,
+        "y": 18,
+        "width": 433,
+        "height": 30
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 499,
+        "y": 1006,
+        "width": 411,
+        "height": 26
+      }
+    }
+  ]
+}

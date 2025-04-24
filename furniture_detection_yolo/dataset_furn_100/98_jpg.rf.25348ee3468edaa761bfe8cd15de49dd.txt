@@ -1,0 +1,140 @@
+{
+  "image": "98_jpg.rf.25348ee3468edaa761bfe8cd15de49dd.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 784,
+        "y": 498,
+        "width": 134,
+        "height": 377
+      }
+    },
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 170,
+        "y": 502,
+        "width": 99,
+        "height": 226
+      }
+    },
+    {
+      "label": "fireplace",
+      "coordinates": {
+        "x": 190,
+        "y": 785,
+        "width": 148,
+        "height": 148
+      }
+    },
+    {
+      "label": "floor plant",
+      "coordinates": {
+        "x": 194,
+        "y": 274,
+        "width": 83,
+        "height": 73
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 621,
+        "y": 508,
+        "width": 142,
+        "height": 216
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 377,
+        "y": 504,
+        "width": 273,
+        "height": 280
+      }
+    },
+    {
+      "label": "sideboard",
+      "coordinates": {
+        "x": 716,
+        "y": 166,
+        "width": 320,
+        "height": 58
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 730,
+        "y": 276,
+        "width": 35,
+        "height": 36
+      }
+    },
+    {
+      "label": "bookshelf",
+      "coordinates": {
+        "x": 685,
+        "y": 837,
+        "width": 324,
+        "height": 85
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 515,
+        "y": 304,
+        "width": 174,
+        "height": 153
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 518,
+        "y": 706,
+        "width": 172,
+        "height": 149
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1002,
+        "y": 235,
+        "width": 20,
+        "height": 177
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 1001,
+        "y": 408,
+        "width": 19,
+        "height": 165
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 999,
+        "y": 627,
+        "width": 20,
+        "height": 152
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 999,
+        "y": 793,
+        "width": 18,
+        "height": 170
+      }
+    }
+  ]
+}

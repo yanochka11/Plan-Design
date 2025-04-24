@@ -1,0 +1,247 @@
+[
+  {
+    "room_dimensions": [
+      8.32,
+      7.57,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 1.85,
+      "width": 1.14,
+      "height": 0.72
+    },
+    "position": {
+      "x": 6.89,
+      "y": 3.54,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "sofa_2",
+    "size_in_meters": {
+      "length": 1.8,
+      "width": 1.09,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.98,
+      "y": 3.53,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 1.5,
+      "width": 1.3,
+      "height": 0.02
+    },
+    "position": {
+      "x": 4.91,
+      "y": 3.58,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 1.05,
+      "width": 0.97,
+      "height": 0.9
+    },
+    "position": {
+      "x": 3.31,
+      "y": 6.07,
+      "z": 0.45
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "bookshelf_1",
+    "size_in_meters": {
+      "length": 1.49,
+      "width": 1.42,
+      "height": 1.8
+    },
+    "position": {
+      "x": 1.05,
+      "y": 6.04,
+      "z": 0.9
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor plant_1",
+    "size_in_meters": {
+      "length": 0.44,
+      "width": 0.39,
+      "height": 0.72
+    },
+    "position": {
+      "x": 6.26,
+      "y": 6.41,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor plant_2",
+    "size_in_meters": {
+      "length": 0.33,
+      "width": 0.29,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.8,
+      "y": 1.17,
+      "z": 0.36
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "floor plant_3",
+    "size_in_meters": {
+      "length": 0.31,
+      "width": 0.3,
+      "height": 0.72
+    },
+    "position": {
+      "x": 4.11,
+      "y": 1.06,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "floor plant_4",
+    "size_in_meters": {
+      "length": 0.3,
+      "width": 0.27,
+      "height": 0.72
+    },
+    "position": {
+      "x": 3.71,
+      "y": 1.05,
+      "z": 0.36
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "side table_1",
+    "size_in_meters": {
+      "length": 0.85,
+      "width": 0.83,
+      "height": 0.45
+    },
+    "position": {
+      "x": 6.84,
+      "y": 1.58,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.25,
+      "width": 0.8,
+      "height": 0.41
+    },
+    "position": {
+      "x": 3.27,
+      "y": 3.57,
+      "z": 0.205
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "side table_2",
+    "size_in_meters": {
+      "length": 0.73,
+      "width": 0.71,
+      "height": 0.45
+    },
+    "position": {
+      "x": 0.99,
+      "y": 1.87,
+      "z": 0.225
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "shelves_1",
+    "size_in_meters": {
+      "length": 2.17,
+      "width": 0.44,
+      "height": 1.8
+    },
+    "position": {
+      "x": 7.94,
+      "y": 3.56,
+      "z": 0.9
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 1.16,
+      "width": 0.12,
+      "height": 1.26
+    },
+    "position": {
+      "x": 2.4,
+      "y": 0.18,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_2",
+    "size_in_meters": {
+      "length": 0.91,
+      "width": 0.12,
+      "height": 1.26
+    },
+    "position": {
+      "x": 5.23,
+      "y": 0.17,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_3",
+    "size_in_meters": {
+      "length": 1.31,
+      "width": 0.12,
+      "height": 1.26
+    },
+    "position": {
+      "x": 6.68,
+      "y": 0.17,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_4",
+    "size_in_meters": {
+      "length": 1.11,
+      "width": 0.13,
+      "height": 1.26
+    },
+    "position": {
+      "x": 5.35,
+      "y": 7.39,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  }
+]

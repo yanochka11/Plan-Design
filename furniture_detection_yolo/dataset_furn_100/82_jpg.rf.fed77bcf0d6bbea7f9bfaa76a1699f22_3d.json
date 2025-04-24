@@ -1,0 +1,275 @@
+[
+  {
+    "room_dimensions": [
+      10.77,
+      6.96,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "modular kitchen_1",
+    "size_in_meters": {
+      "length": 4.8,
+      "width": 1.64,
+      "height": 0.81
+    },
+    "position": {
+      "x": 1.16,
+      "y": 3.77,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "dining table_1",
+    "size_in_meters": {
+      "length": 2.09,
+      "width": 0.81,
+      "height": 0.68
+    },
+    "position": {
+      "x": 4.45,
+      "y": 3.84,
+      "z": 0.34
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_1",
+    "size_in_meters": {
+      "length": 0.43,
+      "width": 0.28,
+      "height": 0.81
+    },
+    "position": {
+      "x": 3.76,
+      "y": 2.98,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_2",
+    "size_in_meters": {
+      "length": 0.4,
+      "width": 0.29,
+      "height": 0.81
+    },
+    "position": {
+      "x": 3.76,
+      "y": 3.54,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_3",
+    "size_in_meters": {
+      "length": 0.4,
+      "width": 0.28,
+      "height": 0.81
+    },
+    "position": {
+      "x": 3.74,
+      "y": 4.1,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_4",
+    "size_in_meters": {
+      "length": 0.37,
+      "width": 0.27,
+      "height": 0.81
+    },
+    "position": {
+      "x": 3.74,
+      "y": 4.63,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 0.75,
+      "width": 0.67,
+      "height": 0.9
+    },
+    "position": {
+      "x": 7.45,
+      "y": 2.55,
+      "z": 0.45
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_5",
+    "size_in_meters": {
+      "length": 0.68,
+      "width": 0.63,
+      "height": 0.81
+    },
+    "position": {
+      "x": 7.39,
+      "y": 4.6,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_6",
+    "size_in_meters": {
+      "length": 0.65,
+      "width": 0.64,
+      "height": 0.81
+    },
+    "position": {
+      "x": 8.45,
+      "y": 4.81,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 0.67,
+      "width": 0.62,
+      "height": 0.41
+    },
+    "position": {
+      "x": 8.03,
+      "y": 3.63,
+      "z": 0.205
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "tv stand_1",
+    "size_in_meters": {
+      "length": 4.49,
+      "width": 1.02,
+      "height": 0.45
+    },
+    "position": {
+      "x": 10.0,
+      "y": 3.98,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "bench_1",
+    "size_in_meters": {
+      "length": 0.89,
+      "width": 0.38,
+      "height": 0.45
+    },
+    "position": {
+      "x": 5.27,
+      "y": 3.23,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "bench_2",
+    "size_in_meters": {
+      "length": 0.85,
+      "width": 0.4,
+      "height": 0.45
+    },
+    "position": {
+      "x": 5.26,
+      "y": 4.41,
+      "z": 0.225
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 2.5,
+      "width": 0.09,
+      "height": 1.26
+    },
+    "position": {
+      "x": 4.23,
+      "y": 6.8,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "window_2",
+    "size_in_meters": {
+      "length": 0.83,
+      "width": 0.09,
+      "height": 1.26
+    },
+    "position": {
+      "x": 7.52,
+      "y": 6.78,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "desk_1",
+    "size_in_meters": {
+      "length": 0.71,
+      "width": 0.43,
+      "height": 0.68
+    },
+    "position": {
+      "x": 9.82,
+      "y": 0.56,
+      "z": 0.34
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "chair_7",
+    "size_in_meters": {
+      "length": 0.41,
+      "width": 0.36,
+      "height": 0.81
+    },
+    "position": {
+      "x": 9.24,
+      "y": 0.48,
+      "z": 0.405
+    },
+    "rotation_z": 90
+  },
+  {
+    "new_object_id": "window_3",
+    "size_in_meters": {
+      "length": 0.96,
+      "width": 0.09,
+      "height": 1.26
+    },
+    "position": {
+      "x": 8.71,
+      "y": 6.78,
+      "z": 0.63
+    },
+    "rotation_z": 0
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 2.25,
+      "width": 1.43,
+      "height": 0.02
+    },
+    "position": {
+      "x": 7.83,
+      "y": 3.67,
+      "z": 0.01
+    },
+    "rotation_z": 90
+  }
+]

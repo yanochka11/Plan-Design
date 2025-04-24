@@ -1,0 +1,167 @@
+{
+  "image": "26_jpg.rf.4f997d49080153605420a7591723cb10.jpg",
+  "annotations": [
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 528,
+        "y": 383,
+        "width": 543,
+        "height": 195
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 927,
+        "y": 592,
+        "width": 148,
+        "height": 359
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 689,
+        "y": 918,
+        "width": 82,
+        "height": 82
+      }
+    },
+    {
+      "label": "ottoman",
+      "coordinates": {
+        "x": 310,
+        "y": 625,
+        "width": 114,
+        "height": 116
+      }
+    },
+    {
+      "label": "armchair",
+      "coordinates": {
+        "x": 227,
+        "y": 826,
+        "width": 152,
+        "height": 159
+      }
+    },
+    {
+      "label": "sideboard",
+      "coordinates": {
+        "x": 102,
+        "y": 573,
+        "width": 75,
+        "height": 430
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 622,
+        "y": 657,
+        "width": 151,
+        "height": 179
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 480,
+        "y": 658,
+        "width": 140,
+        "height": 182
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 225,
+        "y": 371,
+        "width": 54,
+        "height": 64
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 845,
+        "y": 235,
+        "width": 56,
+        "height": 60
+      }
+    },
+    {
+      "label": "shelves",
+      "coordinates": {
+        "x": 932,
+        "y": 208,
+        "width": 107,
+        "height": 129
+      }
+    },
+    {
+      "label": "side table",
+      "coordinates": {
+        "x": 834,
+        "y": 370,
+        "width": 55,
+        "height": 65
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 535,
+        "y": 673,
+        "width": 553,
+        "height": 376
+      }
+    },
+    {
+      "label": "floor vase",
+      "coordinates": {
+        "x": 135,
+        "y": 247,
+        "width": 50,
+        "height": 46
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 854,
+        "y": 843,
+        "width": 154,
+        "height": 116
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 345,
+        "y": 39,
+        "width": 227,
+        "height": 28
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 545,
+        "y": 37,
+        "width": 166,
+        "height": 28
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 749,
+        "y": 38,
+        "width": 228,
+        "height": 26
+      }
+    }
+  ]
+}

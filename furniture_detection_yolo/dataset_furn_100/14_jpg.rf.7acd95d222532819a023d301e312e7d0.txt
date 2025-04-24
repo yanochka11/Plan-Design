@@ -1,0 +1,122 @@
+{
+  "image": "14_jpg.rf.7acd95d222532819a023d301e312e7d0.jpg",
+  "annotations": [
+    {
+      "label": "TV stand",
+      "coordinates": {
+        "x": 803,
+        "y": 532,
+        "width": 99,
+        "height": 415
+      }
+    },
+    {
+      "label": "desk",
+      "coordinates": {
+        "x": 267,
+        "y": 895,
+        "width": 129,
+        "height": 251
+      }
+    },
+    {
+      "label": "wardrobe",
+      "coordinates": {
+        "x": 690,
+        "y": 964,
+        "width": 321,
+        "height": 107
+      }
+    },
+    {
+      "label": "shelves",
+      "coordinates": {
+        "x": 210,
+        "y": 516,
+        "width": 75,
+        "height": 462
+      }
+    },
+    {
+      "label": "floor lamp",
+      "coordinates": {
+        "x": 356,
+        "y": 92,
+        "width": 42,
+        "height": 25
+      }
+    },
+    {
+      "label": "rug",
+      "coordinates": {
+        "x": 482,
+        "y": 392,
+        "width": 386,
+        "height": 593
+      }
+    },
+    {
+      "label": "coffee table",
+      "coordinates": {
+        "x": 546,
+        "y": 475,
+        "width": 101,
+        "height": 103
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 365,
+        "y": 816,
+        "width": 56,
+        "height": 85
+      }
+    },
+    {
+      "label": "chair",
+      "coordinates": {
+        "x": 367,
+        "y": 930,
+        "width": 58,
+        "height": 80
+      }
+    },
+    {
+      "label": "chair-bed",
+      "coordinates": {
+        "x": 405,
+        "y": 215,
+        "width": 293,
+        "height": 218
+      }
+    },
+    {
+      "label": "sofa",
+      "coordinates": {
+        "x": 371,
+        "y": 506,
+        "width": 222,
+        "height": 349
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 645,
+        "y": 12,
+        "width": 256,
+        "height": 20
+      }
+    },
+    {
+      "label": "window",
+      "coordinates": {
+        "x": 380,
+        "y": 12,
+        "width": 268,
+        "height": 20
+      }
+    }
+  ]
+}

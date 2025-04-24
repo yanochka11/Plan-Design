@@ -1,0 +1,145 @@
+[
+  {
+    "room_dimensions": [
+      8.75,
+      6.81,
+      2.5
+    ]
+  },
+  {
+    "new_object_id": "sofa_1",
+    "size_in_meters": {
+      "length": 4.21,
+      "width": 1.75,
+      "height": 0.72
+    },
+    "position": {
+      "x": 3.83,
+      "y": 2.16,
+      "z": 1.7999999999999998
+    },
+    "rotation_z": 0,
+    "style": "Modern",
+    "material": "Fabric",
+    "color": "Light Blue"
+  },
+  {
+    "new_object_id": "rug_1",
+    "size_in_meters": {
+      "length": 3.25,
+      "width": 2.34,
+      "height": 0.02
+    },
+    "position": {
+      "x": 3.38,
+      "y": 4.89,
+      "z": 0.05
+    },
+    "rotation_z": 0,
+    "style": "Modern",
+    "material": "wool",
+    "color": "geometric pattern in black and white"
+  },
+  {
+    "new_object_id": "armchair_1",
+    "size_in_meters": {
+      "length": 1.36,
+      "width": 1.08,
+      "height": 0.9
+    },
+    "position": {
+      "x": 0.81,
+      "y": 4.5,
+      "z": 2.25
+    },
+    "rotation_z": 90,
+    "style": "Modern",
+    "material": "Fabric",
+    "color": "Earthy Brown"
+  },
+  {
+    "new_object_id": "coffee table_1",
+    "size_in_meters": {
+      "length": 1.09,
+      "width": 1.08,
+      "height": 0.41
+    },
+    "position": {
+      "x": 3.17,
+      "y": 5.04,
+      "z": 1.025
+    },
+    "rotation_z": 0,
+    "style": "Modern",
+    "material": "Glass",
+    "color": "Light Blue"
+  },
+  {
+    "new_object_id": "rug_2",
+    "size_in_meters": {
+      "length": 2.71,
+      "width": 1.4,
+      "height": 0.02
+    },
+    "position": {
+      "x": 6.18,
+      "y": 5.81,
+      "z": 0.05
+    },
+    "rotation_z": 0,
+    "style": "Modern",
+    "material": "wool",
+    "color": "geometric pattern in black and white"
+  },
+  {
+    "new_object_id": "floor plant_1",
+    "size_in_meters": {
+      "length": 0.82,
+      "width": 0.69,
+      "height": 0.72
+    },
+    "position": {
+      "x": 0.62,
+      "y": 1.89,
+      "z": 1.7999999999999998
+    },
+    "rotation_z": 90,
+    "style": "Modern",
+    "material": "Fabric",
+    "color": "Soft Grey"
+  },
+  {
+    "new_object_id": "coffee table_2",
+    "size_in_meters": {
+      "length": 1.6,
+      "width": 1.3,
+      "height": 0.41
+    },
+    "position": {
+      "x": 7.61,
+      "y": 2.06,
+      "z": 1.025
+    },
+    "rotation_z": 0,
+    "style": "Modern",
+    "material": "Glass",
+    "color": "Light Blue"
+  },
+  {
+    "new_object_id": "window_1",
+    "size_in_meters": {
+      "length": 3.4,
+      "width": 0.16,
+      "height": 1.26
+    },
+    "position": {
+      "x": 4.07,
+      "y": 0.22,
+      "z": 3.15
+    },
+    "rotation_z": 0,
+    "style": "Modern",
+    "material": "Wood",
+    "color": "Earthy Brown"
+  }
+]
