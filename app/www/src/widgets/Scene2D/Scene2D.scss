@@ -1,0 +1,63 @@
+.scene-2d {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+
+    &__layout-container {
+        position: relative;
+        flex-grow: 1;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: width 0.3s ease;
+        overflow: hidden;
+
+        &_sidebar-open {
+            width: calc(100% - 300px);
+        }
+    }
+
+    &__layout-wrapper {
+        transform-origin: center;
+        transition: transform 0.3s ease;
+        height: 100%;
+    }
+
+    &__toggle-sidebar {
+        position: absolute;
+        top: 20px;
+        right: 0;
+        z-index: 10;
+        width: 30px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 0 4px 4px 0;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    &__zoom-controls {
+        position: absolute;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        gap: 5px;
+        background: white;
+        padding: 5px;
+        border-radius: 4px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        z-index: 5;
+
+        button {
+            min-width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}

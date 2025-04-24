@@ -1,0 +1,170 @@
+.model {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+
+    // Десктопная версия
+    &__desktop-layout {
+        width: 100%;
+        height: 100%;
+    }
+
+    &__model-content {
+        flex: 1;
+        height: 100vh;
+        width: 100%;
+    }
+
+    &__aside {
+        height: 100%;
+
+        &_open {
+            // Стили для открытого aside
+        }
+    }
+
+    .gn-aside-header {
+        width: fit-content;
+    }
+
+    // Мобильная версия
+    &_mobile {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__mobile-layout {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        width: 100%;
+    }
+
+    &__mobile-content {
+        flex: 1;
+        overflow-y: auto;
+        padding-bottom: 65px; // Отступ для нижней навигации
+    }
+
+    // Стили кастомной мобильной навигации
+    &__mobile-nav {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 65px;
+        background-color: #ffffff;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.08);
+        z-index: 100;
+
+        // Поддержка безопасной зоны для iOS
+        @supports (padding-bottom: env(safe-area-inset-bottom)) {
+            height: calc(65px + env(safe-area-inset-bottom));
+            padding-bottom: env(safe-area-inset-bottom);
+        }
+    }
+
+    &__mobile-nav-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 8px 12px;
+        cursor: pointer;
+        transition: color 0.2s ease;
+        color: #8c8c8c;
+        width: 50%;
+
+        &_active {
+            color: var(--g-color-base-brand, #007aff);
+            position: relative;
+
+            &::after {
+                content: '';
+                position: absolute;
+                bottom: -8px;
+                left: 50%;
+                transform: translateX(-50%);
+                width: 30px;
+                height: 3px;
+                background-color: var(--g-color-base-brand, #007aff);
+                border-radius: 3px;
+            }
+        }
+
+        &:active {
+            opacity: 0.7;
+        }
+    }
+
+    &__mobile-nav-icon {
+        width: 24px;
+        height: 24px;
+        margin-bottom: 4px;
+    }
+
+    &__mobile-nav-text {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    // Состояния загрузки и ошибок
+    &__loader-container,
+    &__error-container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 16px;
+    }
+
+    &__loader-text,
+    &__error-text {
+        margin-top: 16px;
+        text-align: center;
+    }
+
+    &__loader-subtext,
+    &__error-subtext {
+        margin-top: 8px;
+        text-align: center;
+        max-width: 280px;
+    }
+
+    &__retry-button {
+        margin-top: 16px;
+    }
+
+    // Оформление приветственной страницы
+    &__welcome {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        text-align: center;
+        padding: 20px;
+    }
+}
+
+// Медиа-запрос для мобильных устройств
+@media (max-width: 767px) {
+    .model {
+
+        &__loader-text,
+        &__error-text {
+            font-size: 20px !important;
+        }
+
+        &__loader-subtext,
+        &__error-subtext {
+            font-size: 14px !important;
+        }
+    }
+}

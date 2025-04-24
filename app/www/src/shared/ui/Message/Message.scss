@@ -1,0 +1,83 @@
+.comment {
+    padding: var(--g-spacing-4) var(--g-spacing-3);
+    width: 90%;
+    border-radius: 10px;
+    word-wrap: break-word; // Обеспечивает перенос длинных слов
+    white-space: pre-wrap; // Сохраняет переносы строк в тексте
+    overflow-wrap: break-word; // Дополнительное свойство для поддержки переноса
+    position: relative;
+    margin-bottom: 8px;
+
+    &::after {
+        content: '';
+        position: absolute;
+        width: 12px;
+        height: 12px;
+        bottom: 0px;
+        transform: rotate(0deg);
+    }
+
+    &_direction {
+        &_robot {
+            background: var(--g-color-base-info-heavy);
+            color: var(--g-color-text-light-primary);
+
+            // &::after {
+            //     left: -5px;
+            //     background: var(--g-color-base-info-heavy);
+            //     transform: rotate(30deg);
+            // }
+        }
+
+        &_user {
+            background: var(--g-color-base-neutral-light);
+            // Добавьте стили для пользовательских сообщений если нужно
+            // &::after {
+            //     right: 10px;
+            //     background: your-color-here;
+            // }
+        }
+    }
+}
+
+// Ограничения только для мобильных устройств
+@media (max-width: 767px) {
+    .comment {
+        max-width: 280px; // Ограниченная ширина для маленьких экранов
+        border-radius: 18px; // Более iOS-подобные скругленные углы
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1); // Легкая тень в стиле iOS
+
+        &_direction {
+            &_robot {
+                align-self: flex-start; // Выравнивание сообщений робота влево
+                border-radius: 18px 18px 18px 4px; // Форма пузыря как в iOS
+            }
+
+            &_user {
+                align-self: flex-end; // Выравнивание сообщений пользователя вправо
+                border-radius: 18px 18px 4px 18px; // Форма пузыря как в iOS
+            }
+        }
+    }
+
+    // Более точные настройки для разных размеров смартфонов
+    @media (min-width: 375px) {
+        .comment {
+            max-width: 310px;
+        }
+    }
+
+    @media (min-width: 428px) {
+        .comment {
+            max-width: 350px;
+        }
+    }
+}
+
+// Обеспечиваем правильную работу с длинными URL и другими непрерывными строками на всех устройствах
+.comment a,
+.comment code,
+.comment pre {
+    word-break: break-all;
+    overflow-wrap: anywhere;
+}

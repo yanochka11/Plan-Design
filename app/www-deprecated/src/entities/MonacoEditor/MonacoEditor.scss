@@ -1,0 +1,18 @@
+.monaco {
+    min-width: 500px;
+
+    &__editor-card {
+        height: 100%;
+        width: 100%;
+        padding: 8px 12px;
+    }
+
+    &__editor-container {
+        height: 100%;
+        width: 100%;
+    }
+
+    &__header {
+        width: 100%;
+    }
+}

@@ -1,0 +1,54 @@
+.chat-input {
+    width: 100%;
+    background-color: rgba(245, 245, 247, 0.95); // iOS-подобный полупрозрачный фон
+    backdrop-filter: blur(10px); // iOS-эффект размытия
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 -0.5px 0 rgba(0, 0, 0, 0.15); // Тонкая разделительная линия как в iOS
+    padding: 12px 16px;
+    z-index: 10;
+
+    &__input-container {
+        max-width: 800px; // Максимальная ширина для больших iPhone
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    &__textarea {
+        flex: 1;
+        border-radius: 18px; // Более округлые углы как в iOS
+        font-size: 16px; // Оптимальный размер для предотвращения масштабирования на iOS
+        resize: none;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+
+        &::placeholder {
+            color: #8e8e93; // iOS-стиль placeholder
+        }
+    }
+
+    &__button {
+        height: 36px;
+        width: 36px;
+        min-width: 36px;
+        align-self: flex-end;
+        margin-bottom: 2px;
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+// Безопасная зона для iPhone X и новее с "челкой"
+@supports (padding-bottom: env(safe-area-inset-bottom)) {
+    .chat-input {
+        padding-bottom: calc(12px + env(safe-area-inset-bottom));
+    }
+}
+
+// Фикс для Safari iOS, чтобы предотвратить джампинг при открытии клавиатуры
+@supports (-webkit-touch-callout: none) {
+    .chat-input {
+        position: sticky;
+        bottom: 0;
+    }
+}

@@ -1,0 +1,134 @@
+.room-layout {
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+    touch-action: none; // Отключаем стандартные жесты браузера
+    width: 100%;
+    
+    &__svg-container {
+      transform-origin: 0 0;
+      transition: transform 0.1s ease;
+      
+      &--dragging {
+        transition: none;
+      }
+    }
+    
+    &__svg {
+      display: block;
+      border: 1px solid #ccc;
+      background-color: #f9f9f9;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+    
+    &__controls {
+      position: sticky;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px;
+      background-color: rgba(255, 255, 255, 0.9);
+      border-bottom: 1px solid #ddd;
+    }
+    
+    &__object-controls {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      display: flex;
+      justify-content: space-around;
+      padding: 10px;
+      background-color: rgba(255, 255, 255, 0.9);
+      border-top: 1px solid #ddd;
+      box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+      
+      @supports (padding-bottom: env(safe-area-inset-bottom)) {
+        padding-bottom: calc(10px + env(safe-area-inset-bottom));
+      }
+    }
+    
+    &__control-btn {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      padding: 8px 12px;
+      font-size: 14px;
+      min-width: 80px;
+      touch-action: manipulation;
+      user-select: none;
+      cursor: pointer;
+      
+      &:active {
+        background-color: #f0f0f0;
+      }
+      
+      &--delete {
+        background-color: #fff0f0;
+        color: #d00;
+        border-color: #fcc;
+        
+        &:active {
+          background-color: #ffe0e0;
+        }
+      }
+    }
+    
+    &__scale-info {
+      font-size: 14px;
+      color: #666;
+    }
+    
+    // Мобильные стили
+    &--mobile {
+      .room-layout__svg {
+        touch-action: none;
+        user-select: none;
+        -webkit-user-select: none;
+      }
+      
+      .room-layout__room-svg {
+        touch-action: none;
+      }
+      
+      .room-layout__mobile-labels {
+        pointer-events: none;
+      }
+    }
+  }
+  
+  // Стили для перетаскиваемых объектов
+  .draggable-object {
+    cursor: move;
+    touch-action: none;
+    
+    &--selected {
+      outline: 2px solid blue;
+      outline-offset: 2px;
+    }
+    
+    &__handle {
+      cursor: grab;
+      
+      &:active {
+        cursor: grabbing;
+      }
+    }
+  }
+  
+  // Медиа-запросы для адаптивности
+  @media (max-width: 767px) {
+    .room-layout {
+      height: calc(100vh - 120px); // Оставляем место для контролов
+      
+      &__svg {
+        max-height: 100%;
+      }
+    }
+  }
+  

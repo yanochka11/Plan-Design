@@ -1,0 +1,18 @@
+.chat-button {
+    position: absolute;
+    z-index: 100;
+    bottom: 20px;
+    right: 20px;
+    background: linear-gradient(90deg, #4a77e8 0%, #5282ff 58.05%);
+    border-radius: 50%;
+
+    height: 60px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+     svg {
+        color: white
+     }
+}

@@ -1,0 +1,21 @@
+.app {
+    height: 99vh;
+    width: 100vw;
+    padding: 0 16px;
+    box-sizing: border-box;
+
+    &__scene {
+        width: 100%;
+    }
+
+    &__scene-card {
+        width: 100%;
+        padding: 8px 12px;
+    }
+
+    &__room {
+        width: 100%;
+        height: 90vh;
+        overflow-y: scroll;
+    }
+}

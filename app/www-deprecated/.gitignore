@@ -1,0 +1,16 @@
+# Local
+.DS_Store
+*.local
+*.log*
+
+# Dist
+node_modules
+dist/
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+public/assets/scene_graph.json
+public/assets/place_in_blender.py

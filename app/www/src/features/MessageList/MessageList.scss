@@ -1,0 +1,32 @@
+.message-list {
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch; // Для плавной инерционной прокрутки на iOS
+
+    &__content {
+        max-width: 800px; // Максимальная ширина для больших iPhone
+        width: 100%;
+        margin: 0 auto;
+        padding: 16px;
+    }
+
+    &__message {
+        max-width: 85%; // Ограничиваем ширину сообщений
+    }
+
+    // Улучшенный стиль скроллбара для iOS
+    &::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 100px;
+    }
+}
