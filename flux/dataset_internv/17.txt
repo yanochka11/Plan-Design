@@ -1,0 +1,44 @@
+This is a top-down view from the center of the living room.
+
+1. **Furniture Layout:**
+   - **Sofa:** Against the left wall, facing the fireplace.
+   - **Coffee Table:** In the center, in front of the sofa.
+   - **Couch:** Against the right wall, facing the fireplace.
+   - **Round Table:** In the center, near the coffee table.
+   - **Armchair:** In the center, near the round table.
+   - **Fireplace:** On the right wall, with a mantel above it.
+   - **TV Stand:** On the right wall, above the fireplace.
+   - **Bookshelf:** On the left wall, above the sofa.
+
+2. **Furniture Dimensions:**
+   - **Sofa:** ~2 meters long, ~0.8 meters wide.
+   - **Coffee Table:** ~1×0.6 meters.
+   - **Couch:** ~2 meters long, ~0.8 meters wide.
+   - **Round Table:** ~0.6 meters in diameter.
+   - **Armchair:** ~0.6 meters wide, ~0.6 meters deep.
+   - **Fireplace:** ~1 meter wide, ~1 meter tall.
+   - **TV Stand:** ~1 meter wide, ~0.5 meters deep.
+   - **Bookshelf:** ~2 meters wide, ~0.5 meters deep.
+
+3. **Distances/Clearances:**
+   - 80 cm walkway between the sofa and coffee table.
+   - 80 cm walkway between the coffee table and round table.
+   - 80 cm walkway between the round table and armchair.
+   - 80 cm walkway between the armchair and couch.
+
+4. **Orientation and Angles:**
+   - Sofa and couch face the fireplace.
+   - Coffee table is centered in front of the sofa.
+   - Round table is centered near the coffee table.
+   - Armchair is centered near the round table.
+
+5. **Room Style:**
+   - Minimalist Scandinavian style.
+   - Colors: Light green walls, white furniture, wooden floor, green and beige area rug.
+
+6. **Room Size and Windows/Doors:**
+   - Room size: Approximately 4 meters by 4 meters.
+   - Windows: Two on the left wall, two on the right wall.
+   - Doors: One on the left wall, leading to another room.
+
+This description should help you reconstruct the floor plan of the living room.
